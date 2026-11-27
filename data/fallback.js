@@ -1,6 +1,6 @@
 window.__DWANCHI_TRENDS__ = {
-  "scraped_at": "2026-11-27 13:02 UTC",
-  "total_items_indexed": 540,
+  "scraped_at": "2026-11-27 14:15 UTC",
+  "total_items_indexed": 444,
   "slot_summary": [
     {
       "assetType": 44,
@@ -20,17 +20,17 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakouts": 6,
       "min_favs_in_chart": 500,
       "creator_diversity_pct": 100,
-      "openness_score": 84.9
+      "openness_score": 90.4
     },
     {
       "assetType": 45,
       "slot": "Front",
       "price_floor": 55,
-      "chart_hits": 13,
+      "chart_hits": 12,
       "low_fav_breakouts": 4,
-      "min_favs_in_chart": 959,
+      "min_favs_in_chart": 1023,
       "creator_diversity_pct": 92,
-      "openness_score": 68.0
+      "openness_score": 68.8
     },
     {
       "assetType": 43,
@@ -40,7 +40,7 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakouts": 4,
       "min_favs_in_chart": 744,
       "creator_diversity_pct": 93,
-      "openness_score": 69.4
+      "openness_score": 68.3
     },
     {
       "assetType": 47,
@@ -48,17 +48,17 @@ window.__DWANCHI_TRENDS__ = {
       "price_floor": 65,
       "chart_hits": 9,
       "low_fav_breakouts": 3,
-      "min_favs_in_chart": 631,
+      "min_favs_in_chart": 633,
       "creator_diversity_pct": 100,
-      "openness_score": 64.1
+      "openness_score": 67.2
     },
     {
       "assetType": 8,
       "slot": "Hat",
       "price_floor": 95,
       "chart_hits": 80,
-      "low_fav_breakouts": 38,
-      "min_favs_in_chart": 30,
+      "low_fav_breakouts": 37,
+      "min_favs_in_chart": 33,
       "creator_diversity_pct": 71,
       "openness_score": 100.0
     },
@@ -70,7 +70,7 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakouts": 5,
       "min_favs_in_chart": 435,
       "creator_diversity_pct": 89,
-      "openness_score": 72.2
+      "openness_score": 71.9
     }
   ],
   "keyword_stats": [
@@ -84,31 +84,22 @@ window.__DWANCHI_TRENDS__ = {
       "top_example_favs": 263
     },
     {
-      "keyword": "visor",
-      "sample_count": 30,
-      "low_fav_count": 25,
-      "median_favs": 480,
-      "avg_favs": 2081,
-      "top_example": "Animated Cyber Visor",
-      "top_example_favs": 113
-    },
-    {
       "keyword": "armor",
       "sample_count": 30,
       "low_fav_count": 23,
       "median_favs": 862,
-      "avg_favs": 2626,
+      "avg_favs": 2627,
       "top_example": "Black Right Shoulder Scarf Wrap Armor",
-      "top_example_favs": 21125
+      "top_example_favs": 21129
     },
     {
       "keyword": "blade",
       "sample_count": 30,
       "low_fav_count": 19,
       "median_favs": 1371,
-      "avg_favs": 4115,
+      "avg_favs": 4116,
       "top_example": "biplane / plane blade",
-      "top_example_favs": 1287
+      "top_example_favs": 1288
     },
     {
       "keyword": "cloak",
@@ -117,88 +108,70 @@ window.__DWANCHI_TRENDS__ = {
       "median_favs": 1787,
       "avg_favs": 11456,
       "top_example": "Hero Cloak",
-      "top_example_favs": 406
+      "top_example_favs": 410
+    },
+    {
+      "keyword": "helmet",
+      "sample_count": 30,
+      "low_fav_count": 18,
+      "median_favs": 2505,
+      "avg_favs": 11123,
+      "top_example": "born to feel helmet black",
+      "top_example_favs": 8275
     },
     {
       "keyword": "sigil",
       "sample_count": 30,
       "low_fav_count": 17,
-      "median_favs": 2692,
-      "avg_favs": 20574,
+      "median_favs": 2693,
+      "avg_favs": 20575,
       "top_example": "Silver Star Iconic Sigil Crown",
-      "top_example_favs": 87207
+      "top_example_favs": 87212
+    },
+    {
+      "keyword": "christmas",
+      "sample_count": 30,
+      "low_fav_count": 15,
+      "median_favs": 3148,
+      "avg_favs": 6920,
+      "top_example": "Christmas Hat Red Santa Holiday New Year Natal 🎅",
+      "top_example_favs": 21199
     },
     {
       "keyword": "aura",
       "sample_count": 30,
       "low_fav_count": 15,
       "median_favs": 3221,
-      "avg_favs": 12122,
+      "avg_favs": 12124,
       "top_example": "Cartoony Rainbow Crown Neck Fur Dragon Aura Combo",
-      "top_example_favs": 1034
-    },
-    {
-      "keyword": "crown",
-      "sample_count": 30,
-      "low_fav_count": 15,
-      "median_favs": 4654,
-      "avg_favs": 43370,
-      "top_example": "Silver Star Iconic Sigil Crown",
-      "top_example_favs": 87207
-    },
-    {
-      "keyword": "horns",
-      "sample_count": 30,
-      "low_fav_count": 13,
-      "median_favs": 4688,
-      "avg_favs": 15461,
-      "top_example": "[⏳] Black Steel Horns Of Conquest",
-      "top_example_favs": 76802
+      "top_example_favs": 1035
     },
     {
       "keyword": "cursed",
       "sample_count": 30,
       "low_fav_count": 12,
-      "median_favs": 4865,
-      "avg_favs": 26537,
+      "median_favs": 4866,
+      "avg_favs": 26538,
       "top_example": "Cursed Flames",
-      "top_example_favs": 496369
+      "top_example_favs": 496384
     },
     {
-      "keyword": "mask",
+      "keyword": "goth",
+      "sample_count": 30,
+      "low_fav_count": 8,
+      "median_favs": 7291,
+      "avg_favs": 21269,
+      "top_example": "Black Goth Captain Hat",
+      "top_example_favs": 347208
+    },
+    {
+      "keyword": "y2k",
       "sample_count": 29,
-      "low_fav_count": 10,
-      "median_favs": 4511,
-      "avg_favs": 108348,
-      "top_example": "Black Tactical Neck Gaiter Face Mask",
-      "top_example_favs": 5419
-    },
-    {
-      "keyword": "choker",
-      "sample_count": 30,
-      "low_fav_count": 9,
-      "median_favs": 8250,
-      "avg_favs": 12420,
-      "top_example": "gothic vamp choker & silver layered necklaces 3.0",
-      "top_example_favs": 7294
-    },
-    {
-      "keyword": "chains",
-      "sample_count": 30,
-      "low_fav_count": 8,
-      "median_favs": 10032,
-      "avg_favs": 11131,
-      "top_example": "cross chain",
-      "top_example_favs": 18939
-    },
-    {
-      "keyword": "wings",
-      "sample_count": 30,
-      "low_fav_count": 8,
-      "median_favs": 12161,
-      "avg_favs": 44355,
-      "top_example": "wings and heart aura (pink)",
-      "top_example_favs": 72981
+      "low_fav_count": 7,
+      "median_favs": 15933,
+      "avg_favs": 31763,
+      "top_example": "Black Hanging Y2K Waist Suspender 1.0",
+      "top_example_favs": 2464
     }
   ],
   "hype_radar": [
@@ -428,8 +401,8 @@ window.__DWANCHI_TRENDS__ = {
     "group_id": "35743490",
     "drops": [
       {
-        "name": "Emerald Sovereign — Cycles GPU Raytraced PBR Armor Suit",
-        "status": "Cycles-Baked, Group-Approved & Live in Studio (Version 21)",
+        "name": "Emerald Sovereign — Claude Opus/Sonnet + Cycles GPU Armor Suit",
+        "status": "Claude-Sculpted, Cycles-Baked, Group-Approved & Live in Studio (Version 22)",
         "set_price_floor": 365,
         "items": [
           {
@@ -437,40 +410,40 @@ window.__DWANCHI_TRENDS__ = {
             "title": "Emerald Sovereign Draped Hooded Cowl",
             "slot": "Hat",
             "floor": 95,
-            "tris": 1312,
-            "mesh_id": "121314550705304"
+            "tris": 1584,
+            "mesh_id": "106130762823824"
           },
           {
             "id": "02",
             "title": "Emerald Sovereign Forged Steel Mask",
             "slot": "Face",
             "floor": 95,
-            "tris": 1516,
-            "mesh_id": "91849169661516"
+            "tris": 2846,
+            "mesh_id": "115603793079381"
           },
           {
             "id": "03",
             "title": "Emerald Sovereign Quilted Vest Tunic",
             "slot": "Front",
             "floor": 55,
-            "tris": 2168,
-            "mesh_id": "108266186966679"
+            "tris": 2364,
+            "mesh_id": "87523510233818"
           },
           {
             "id": "04",
             "title": "Emerald Sovereign Gauntlets and Cape",
             "slot": "Shoulder",
             "floor": 55,
-            "tris": 3800,
-            "mesh_id": "76426094298902"
+            "tris": 3224,
+            "mesh_id": "135748217311827"
           },
           {
             "id": "05",
             "title": "Emerald Sovereign Belt and Shin Greaves",
             "slot": "Waist",
             "floor": 65,
-            "tris": 2052,
-            "mesh_id": "93567442613669"
+            "tris": 2600,
+            "mesh_id": "118815979162699"
           }
         ]
       }
@@ -552,27 +525,6 @@ window.__DWANCHI_TRENDS__ = {
   ],
   "items": [
     {
-      "id": 136632591232416,
-      "name": "Animated Cyber Visor",
-      "creator": "Move Bricks Studio",
-      "assetType": 42,
-      "slot": "Face",
-      "floor": 95,
-      "price": 105,
-      "favs": 113,
-      "sources": [
-        "KW:visor #1"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 1,
-      "breakout_score": 99.2,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/136632591232416"
-    },
-    {
       "id": 89340028874058,
       "name": "Black and Red Monarch Cape",
       "creator": "Brushwork",
@@ -615,27 +567,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/82370923583674"
     },
     {
-      "id": 89639170668012,
-      "name": "Miami Vice Palms Football Helmet Visor",
-      "creator": "Sovereign Sportswear",
-      "assetType": 42,
-      "slot": "Face",
-      "floor": 95,
-      "price": 95,
-      "favs": 99,
-      "sources": [
-        "KW:visor #2"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 2,
-      "breakout_score": 97.4,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/89639170668012"
-    },
-    {
       "id": 93336757277774,
       "name": "Blue Monarch Cape",
       "creator": "Toebuu",
@@ -664,7 +595,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Back",
       "floor": 140,
       "price": 140,
-      "favs": 406,
+      "favs": 410,
       "sources": [
         "KW:cloak #1"
       ],
@@ -688,10 +619,12 @@ window.__DWANCHI_TRENDS__ = {
       "favs": 152,
       "sources": [
         "Week Best #74",
-        "KW:aura #3"
+        "KW:aura #3",
+        "KW:christmas #20"
       ],
       "keywords": [
-        "aura"
+        "aura",
+        "christmas"
       ],
       "best_rank": 3,
       "breakout_score": 95.0,
@@ -707,15 +640,14 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Shoulder",
       "floor": 55,
       "price": 55,
-      "favs": 1034,
+      "favs": 1035,
       "sources": [
+        "Day Best #88",
         "Week Best #35",
-        "KW:aura #1",
-        "KW:crown #2"
+        "KW:aura #1"
       ],
       "keywords": [
-        "aura",
-        "crown"
+        "aura"
       ],
       "best_rank": 1,
       "breakout_score": 93.1,
@@ -766,27 +698,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/117735535512623"
     },
     {
-      "id": 122936510189477,
-      "name": "Animated Cyber Visor Eye (R)",
-      "creator": "Move Bricks Studio",
-      "assetType": 44,
-      "slot": "Shoulder",
-      "floor": 55,
-      "price": 65,
-      "favs": 64,
-      "sources": [
-        "KW:visor #5"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 5,
-      "breakout_score": 91.6,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/122936510189477"
-    },
-    {
       "id": 114108010619426,
       "name": "biplane / plane blade",
       "creator": "Alphh Store",
@@ -794,7 +705,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Waist",
       "floor": 65,
       "price": 75,
-      "favs": 1287,
+      "favs": 1288,
       "sources": [
         "KW:blade #1"
       ],
@@ -808,6 +719,28 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/114108010619426"
     },
     {
+      "id": 135767906768153,
+      "name": "y2k chrome glasses",
+      "creator": "Driftline Collectives",
+      "assetType": 42,
+      "slot": "Face",
+      "floor": 95,
+      "price": 95,
+      "favs": 862,
+      "sources": [
+        "Day Best #82",
+        "KW:y2k #3"
+      ],
+      "keywords": [
+        "y2k"
+      ],
+      "best_rank": 3,
+      "breakout_score": 90.5,
+      "low_fav_breakout": true,
+      "copyright_clean_title": false,
+      "url": "https://www.roblox.com/catalog/135767906768153"
+    },
+    {
       "id": 95589249550899,
       "name": "[D1-VG-2202] ARES-CORE Waist Armor - Black",
       "creator": "Osu Corp",
@@ -815,7 +748,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Waist",
       "floor": 65,
       "price": 80,
-      "favs": 378,
+      "favs": 379,
       "sources": [
         "KW:armor #5"
       ],
@@ -827,27 +760,6 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/95589249550899"
-    },
-    {
-      "id": 130946177854653,
-      "name": "Animated Cyber Visor Eye (L)",
-      "creator": "Move Bricks Studio",
-      "assetType": 44,
-      "slot": "Shoulder",
-      "floor": 55,
-      "price": 65,
-      "favs": 73,
-      "sources": [
-        "KW:visor #6"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 6,
-      "breakout_score": 89.6,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/130946177854653"
     },
     {
       "id": 117456936401556,
@@ -962,7 +874,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Shoulder",
       "floor": 55,
       "price": 55,
-      "favs": 770,
+      "favs": 772,
       "sources": [
         "KW:aura #5"
       ],
@@ -1004,7 +916,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Hat",
       "floor": 95,
       "price": 90,
-      "favs": 162,
+      "favs": 163,
       "sources": [
         "KW:cursed #7"
       ],
@@ -1046,7 +958,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Front",
       "floor": 55,
       "price": 55,
-      "favs": 883,
+      "favs": 884,
       "sources": [
         "KW:cloak #5"
       ],
@@ -1067,37 +979,16 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Shoulder",
       "floor": 55,
       "price": 55,
-      "favs": 966,
+      "favs": 997,
       "sources": [
         "Day Rising #5"
       ],
       "keywords": [],
       "best_rank": 5,
-      "breakout_score": 86.1,
+      "breakout_score": 85.9,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/120347850462245"
-    },
-    {
-      "id": 103679582134694,
-      "name": "German Military Visor Cap Devil's Black",
-      "creator": "ATP JazzzC",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 115,
-      "favs": 1323,
-      "sources": [
-        "KW:visor #4"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 4,
-      "breakout_score": 85.7,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/103679582134694"
     },
     {
       "id": 105211886310674,
@@ -1110,12 +1001,9 @@ window.__DWANCHI_TRENDS__ = {
       "favs": 419,
       "sources": [
         "Day Best #7",
-        "Day Rising #60",
-        "KW:crown #9"
+        "Day Rising #59"
       ],
-      "keywords": [
-        "crown"
-      ],
+      "keywords": [],
       "best_rank": 7,
       "breakout_score": 85.5,
       "low_fav_breakout": true,
@@ -1146,27 +1034,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/124782115160264"
     },
     {
-      "id": 102406711512569,
-      "name": "Ski Mask",
-      "creator": "Valeag",
-      "assetType": 42,
-      "slot": "Face",
-      "floor": 95,
-      "price": 95,
-      "favs": 1456,
-      "sources": [
-        "KW:mask #4"
-      ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 4,
-      "breakout_score": 84.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/102406711512569"
-    },
-    {
       "id": 79051349287789,
       "name": "Fallen Star Crown",
       "creator": "JuiceStudio",
@@ -1174,15 +1041,12 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Hat",
       "floor": 95,
       "price": 800000,
-      "favs": 980,
+      "favs": 981,
       "sources": [
         "Day Best #6",
-        "Day Rising #41",
-        "KW:crown #6"
+        "Day Rising #41"
       ],
-      "keywords": [
-        "crown"
-      ],
+      "keywords": [],
       "best_rank": 6,
       "breakout_score": 84.1,
       "low_fav_breakout": true,
@@ -1190,25 +1054,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/79051349287789"
     },
     {
-      "id": 127186753256045,
-      "name": "Animated Cyber Visor Eye (R) [Yellow]",
-      "creator": "Move Bricks Studio",
-      "assetType": 44,
-      "slot": "Shoulder",
-      "floor": 55,
-      "price": 65,
-      "favs": 28,
+      "id": 96125744091718,
+      "name": "Black Dark Monarch Cape",
+      "creator": "Toebuu",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 7,
       "sources": [
-        "KW:visor #9"
+        "KW:monarch #9"
       ],
       "keywords": [
-        "visor"
+        "monarch"
       ],
       "best_rank": 9,
-      "breakout_score": 83.8,
+      "breakout_score": 84.0,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/127186753256045"
+      "url": "https://www.roblox.com/catalog/96125744091718"
     },
     {
       "id": 126232782437131,
@@ -1218,7 +1082,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Front",
       "floor": 55,
       "price": 55,
-      "favs": 1621,
+      "favs": 1622,
       "sources": [
         "KW:sigil #4"
       ],
@@ -1230,6 +1094,29 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/126232782437131"
+    },
+    {
+      "id": 90151514169216,
+      "name": "Black Hanging Y2K Waist Suspender 1.0",
+      "creator": "CSTAR!",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 2464,
+      "sources": [
+        "Day Best #36",
+        "Week Best #27",
+        "KW:y2k #1"
+      ],
+      "keywords": [
+        "y2k"
+      ],
+      "best_rank": 1,
+      "breakout_score": 83.6,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/90151514169216"
     },
     {
       "id": 123312205829399,
@@ -1314,26 +1201,48 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/81735317813500"
     },
     {
-      "id": 17514082488,
-      "name": "✅ Horns",
-      "creator": "Glowz UGC",
+      "id": 132842499333563,
+      "name": "Elder Dragon Slayer Helmet (Abyss)",
+      "creator": "Dev_R0VER",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 2455,
+      "favs": 5,
       "sources": [
-        "Week Best #30",
-        "KW:horns #2"
+        "KW:helmet #10"
       ],
       "keywords": [
-        "horns"
+        "helmet"
       ],
-      "best_rank": 2,
+      "best_rank": 10,
       "breakout_score": 82.0,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/17514082488"
+      "url": "https://www.roblox.com/catalog/132842499333563"
+    },
+    {
+      "id": 92103900635619,
+      "name": "Christmas",
+      "creator": "Worded",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 55,
+      "favs": 2295,
+      "sources": [
+        "Day Best #21",
+        "Week Best #7",
+        "KW:christmas #3"
+      ],
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 3,
+      "breakout_score": 81.3,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/92103900635619"
     },
     {
       "id": 124554547571818,
@@ -1343,7 +1252,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Front",
       "floor": 55,
       "price": 55,
-      "favs": 494,
+      "favs": 495,
       "sources": [
         "KW:armor #9"
       ],
@@ -1399,27 +1308,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/81273590707121"
     },
     {
-      "id": 79235541062805,
-      "name": "Nun Mask",
-      "creator": "cenats",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 1245,
-      "sources": [
-        "KW:mask #7"
-      ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 7,
-      "breakout_score": 80.7,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/79235541062805"
-    },
-    {
       "id": 94133061014040,
       "name": "Rainbow Cartoony Dragon Sword Hood Aura Combo",
       "creator": "Dodanuki UGC",
@@ -1441,46 +1329,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/94133061014040"
     },
     {
-      "id": 96125744091718,
-      "name": "Black Dark Monarch Cape",
-      "creator": "Toebuu",
-      "assetType": 46,
-      "slot": "Back",
-      "floor": 140,
-      "price": 140,
-      "favs": 7,
+      "id": 90126040646539,
+      "name": "Black \"Rider\" Motorcycle Helmet",
+      "creator": "Khoi UGC",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 1124,
       "sources": [
-        "KW:monarch #11"
+        "KW:helmet #8"
       ],
       "keywords": [
-        "monarch"
+        "helmet"
       ],
-      "best_rank": 11,
-      "breakout_score": 80.0,
+      "best_rank": 8,
+      "breakout_score": 79.6,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/96125744091718"
-    },
-    {
-      "id": 132074663843883,
-      "name": "Animated Cyber Visor Eye (L) [Yellow]",
-      "creator": "Move Bricks Studio",
-      "assetType": 44,
-      "slot": "Shoulder",
-      "floor": 55,
-      "price": 65,
-      "favs": 31,
-      "sources": [
-        "KW:visor #11"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 11,
-      "breakout_score": 79.8,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/132074663843883"
+      "url": "https://www.roblox.com/catalog/90126040646539"
     },
     {
       "id": 133031115306837,
@@ -1504,46 +1371,69 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/133031115306837"
     },
     {
-      "id": 16589463077,
-      "name": "Dark Hell Bringer Visor",
-      "creator": "Dev_R0VER",
+      "id": 104365547905049,
+      "name": "┊♰ ꒱ goth ruffled mini skirt ꒰black꒱",
+      "creator": "fatal decay",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 875,
+      "sources": [
+        "KW:goth #9"
+      ],
+      "keywords": [
+        "goth"
+      ],
+      "best_rank": 9,
+      "breakout_score": 79.1,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/104365547905049"
+    },
+    {
+      "id": 70628516537542,
+      "name": "Christmas",
+      "creator": "ketchup rice",
+      "assetType": 43,
+      "slot": "Neck",
+      "floor": 55,
+      "price": 55,
+      "favs": 1223,
+      "sources": [
+        "Day Best #10",
+        "Week Best #16",
+        "KW:christmas #8"
+      ],
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 8,
+      "breakout_score": 79.0,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/70628516537542"
+    },
+    {
+      "id": 90962164319350,
+      "name": "[D1-VG-2202] ARES-CORE Helmet - Black",
+      "creator": "Osu Corp",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
-      "price": 95,
-      "favs": 480,
+      "price": 105,
+      "favs": 2496,
       "sources": [
-        "KW:visor #10"
+        "KW:helmet #4"
       ],
       "keywords": [
-        "visor"
+        "helmet"
       ],
-      "best_rank": 10,
-      "breakout_score": 79.4,
+      "best_rank": 4,
+      "breakout_score": 78.4,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/16589463077"
-    },
-    {
-      "id": 131084572003849,
-      "name": "Cyclops 97 Ruby Quartz Visor (2/2)",
-      "creator": "LazyMood",
-      "assetType": 42,
-      "slot": "Face",
-      "floor": 95,
-      "price": 95,
-      "favs": 1494,
-      "sources": [
-        "KW:visor #7"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 7,
-      "breakout_score": 79.2,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/131084572003849"
+      "url": "https://www.roblox.com/catalog/90962164319350"
     },
     {
       "id": 72377850525871,
@@ -1567,6 +1457,27 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/72377850525871"
     },
     {
+      "id": 97751191098023,
+      "name": "Black Goth Grunge White Skull Chained Rope Belt",
+      "creator": "holysoul",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 519,
+      "sources": [
+        "KW:goth #11"
+      ],
+      "keywords": [
+        "goth"
+      ],
+      "best_rank": 11,
+      "breakout_score": 77.2,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/97751191098023"
+    },
+    {
       "id": 71736762903936,
       "name": "Oracle Ethereal Gaian Cloak Cape | Black Gold",
       "creator": "G A i A",
@@ -1588,67 +1499,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/71736762903936"
     },
     {
-      "id": 126911659656733,
-      "name": "🖤, . black devil wing set",
-      "creator": "blankshell",
-      "assetType": 46,
-      "slot": "Back",
-      "floor": 140,
-      "price": 140,
-      "favs": 961,
-      "sources": [
-        "KW:wings #10"
-      ],
-      "keywords": [
-        "wings"
-      ],
-      "best_rank": 10,
-      "breakout_score": 76.7,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/126911659656733"
-    },
-    {
-      "id": 112728742870095,
-      "name": "Elliot's Pizza Worker Visor [FORSAKEN]",
-      "creator": "Russ UGC",
+      "id": 111930050311091,
+      "name": "Cyberpunk 2077: Trauma Team Helmet",
+      "creator": "mr roller coaster ugc",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 275,
+      "favs": 2555,
       "sources": [
-        "KW:visor #12"
+        "KW:helmet #5"
       ],
       "keywords": [
-        "visor"
+        "helmet"
       ],
-      "best_rank": 12,
-      "breakout_score": 76.6,
-      "low_fav_breakout": true,
-      "copyright_clean_title": false,
-      "url": "https://www.roblox.com/catalog/112728742870095"
-    },
-    {
-      "id": 107516800701648,
-      "name": "Warning Caution Sign Visor & Bow",
-      "creator": "SeonyeoHouse",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 1690,
-      "sources": [
-        "KW:visor #8"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 8,
+      "best_rank": 5,
       "breakout_score": 76.3,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/107516800701648"
+      "url": "https://www.roblox.com/catalog/111930050311091"
     },
     {
       "id": 76477381934741,
@@ -1658,7 +1527,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Back",
       "floor": 140,
       "price": 150,
-      "favs": 739,
+      "favs": 740,
       "sources": [
         "KW:armor #11"
       ],
@@ -1679,7 +1548,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Shoulder",
       "floor": 55,
       "price": 55,
-      "favs": 2328,
+      "favs": 2334,
       "sources": [
         "KW:aura #6"
       ],
@@ -1693,67 +1562,23 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/108585254211944"
     },
     {
-      "id": 138542382349571,
-      "name": ",, 🖤. black gothic bat beret with horns",
-      "creator": "sry",
+      "id": 95474175394140,
+      "name": "White Classic Stylish Fedora",
+      "creator": "cvrsee.",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 1142,
+      "favs": 532,
       "sources": [
-        "KW:horns #10"
+        "Day Rising #12"
       ],
-      "keywords": [
-        "horns"
-      ],
-      "best_rank": 10,
-      "breakout_score": 75.8,
+      "keywords": [],
+      "best_rank": 12,
+      "breakout_score": 75.2,
       "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/138542382349571"
-    },
-    {
-      "id": 85582110709223,
-      "name": "White Balaclava Ski Silver Goggles [Ski Mask]",
-      "creator": "v3sper!",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 801,
-      "sources": [
-        "KW:mask #11"
-      ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 11,
-      "breakout_score": 75.7,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/85582110709223"
-    },
-    {
-      "id": 136471662281626,
-      "name": "♾️ Black and gold noble monarch left shoulder",
-      "creator": "Blue infinity studios",
-      "assetType": 44,
-      "slot": "Shoulder",
-      "floor": 55,
-      "price": 75,
-      "favs": 1501,
-      "sources": [
-        "KW:monarch #9"
-      ],
-      "keywords": [
-        "monarch"
-      ],
-      "best_rank": 9,
-      "breakout_score": 75.6,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/136471662281626"
+      "copyright_clean_title": false,
+      "url": "https://www.roblox.com/catalog/95474175394140"
     },
     {
       "id": 88942832319591,
@@ -1777,45 +1602,27 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/88942832319591"
     },
     {
-      "id": 92103900635619,
+      "id": 113968382529920,
       "name": "Christmas",
-      "creator": "Worded",
-      "assetType": 44,
-      "slot": "Shoulder",
-      "floor": 55,
-      "price": 55,
-      "favs": 2293,
+      "creator": "Coast UGC",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 1016,
       "sources": [
-        "Day Best #22",
-        "Week Best #7"
-      ],
-      "keywords": [],
-      "best_rank": 7,
-      "breakout_score": 74.5,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/92103900635619"
-    },
-    {
-      "id": 75879181437634,
-      "name": "White Designer Chain Shoulder Bag Purse",
-      "creator": "Only Y2K",
-      "assetType": 45,
-      "slot": "Front",
-      "floor": 55,
-      "price": 55,
-      "favs": 1737,
-      "sources": [
-        "KW:chains #9"
+        "Day Best #24",
+        "Week Best #32",
+        "KW:christmas #11"
       ],
       "keywords": [
-        "chains"
+        "christmas"
       ],
-      "best_rank": 9,
-      "breakout_score": 74.3,
+      "best_rank": 11,
+      "breakout_score": 74.6,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/75879181437634"
+      "url": "https://www.roblox.com/catalog/113968382529920"
     },
     {
       "id": 134354254758692,
@@ -1860,27 +1667,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/102661884180272"
     },
     {
-      "id": 129630202884241,
-      "name": "[ANIMATED] Gold Sovereign Dominus w/ Horns",
-      "creator": "Xanto Store",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 780,
-      "sources": [
-        "KW:horns #12"
-      ],
-      "keywords": [
-        "horns"
-      ],
-      "best_rank": 12,
-      "breakout_score": 73.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": false,
-      "url": "https://www.roblox.com/catalog/129630202884241"
-    },
-    {
       "id": 99868124762391,
       "name": "D2-Helix Prototype Cyber Body Armor",
       "creator": "Osu Corp",
@@ -1902,14 +1688,14 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/99868124762391"
     },
     {
-      "id": 115292910388614,
-      "name": "♾️ Black and gold noble monarch right shoulder",
+      "id": 136471662281626,
+      "name": "♾️ Black and gold noble monarch left shoulder",
       "creator": "Blue infinity studios",
       "assetType": 44,
       "slot": "Shoulder",
       "floor": 55,
       "price": 75,
-      "favs": 1506,
+      "favs": 1501,
       "sources": [
         "KW:monarch #10"
       ],
@@ -1920,7 +1706,7 @@ window.__DWANCHI_TRENDS__ = {
       "breakout_score": 73.8,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/115292910388614"
+      "url": "https://www.roblox.com/catalog/136471662281626"
     },
     {
       "id": 18489467659,
@@ -1930,7 +1716,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 2692,
+      "favs": 2693,
       "sources": [
         "KW:sigil #6"
       ],
@@ -1944,25 +1730,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/18489467659"
     },
     {
-      "id": 79872318329464,
-      "name": "Goose Beanie",
-      "creator": "6 ᅠ ᅠ",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 503,
-      "sources": [
-        "Day Rising #13"
-      ],
-      "keywords": [],
-      "best_rank": 13,
-      "breakout_score": 73.5,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/79872318329464"
-    },
-    {
       "id": 81539558743381,
       "name": "Cartoony Red Hood Dragon Wings Aura Combo",
       "creator": "Dodanuki UGC",
@@ -1972,18 +1739,37 @@ window.__DWANCHI_TRENDS__ = {
       "price": 55,
       "favs": 128,
       "sources": [
-        "KW:aura #14",
-        "KW:wings #20"
+        "KW:aura #14"
       ],
       "keywords": [
-        "aura",
-        "wings"
+        "aura"
       ],
       "best_rank": 14,
       "breakout_score": 73.4,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/81539558743381"
+    },
+    {
+      "id": 80626877554072,
+      "name": "Wpnz helmet",
+      "creator": "Permanent Placeholder",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 171,
+      "sources": [
+        "KW:helmet #14"
+      ],
+      "keywords": [
+        "helmet"
+      ],
+      "best_rank": 14,
+      "breakout_score": 73.2,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/80626877554072"
     },
     {
       "id": 112433317506917,
@@ -2070,27 +1856,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/136803540672956"
     },
     {
-      "id": 114674140958339,
-      "name": "Galaxy VIP Cartoony Rainbow Chain",
-      "creator": "SUPER EPIC ITEMS",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 1798,
-      "sources": [
-        "KW:chains #10"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 10,
-      "breakout_score": 72.2,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/114674140958339"
-    },
-    {
       "id": 18489414382,
       "name": "Blue Star Iconic Sigil Crown",
       "creator": "Khoi UGC",
@@ -2112,88 +1877,46 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/18489414382"
     },
     {
-      "id": 104465505140764,
-      "name": "Black Grunge Star Crown",
-      "creator": "KARNAGE UGC",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 769,
+      "id": 100520508115995,
+      "name": "Y2K Leather Shoulder Purse",
+      "creator": "Lexentia Wrld",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 55,
+      "favs": 400,
       "sources": [
-        "KW:crown #13"
+        "KW:y2k #14"
       ],
       "keywords": [
-        "crown"
+        "y2k"
       ],
-      "best_rank": 13,
-      "breakout_score": 72.1,
+      "best_rank": 14,
+      "breakout_score": 72.0,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/104465505140764"
+      "url": "https://www.roblox.com/catalog/100520508115995"
     },
     {
-      "id": 117120174438017,
-      "name": "Sasuke Curse Mark",
-      "creator": "rhulk",
-      "assetType": 42,
-      "slot": "Face",
-      "floor": 95,
-      "price": 90,
-      "favs": 1496,
+      "id": 115292910388614,
+      "name": "♾️ Black and gold noble monarch right shoulder",
+      "creator": "Blue infinity studios",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 75,
+      "favs": 1506,
       "sources": [
-        "KW:cursed #11"
+        "KW:monarch #11"
       ],
       "keywords": [
-        "cursed"
+        "monarch"
       ],
       "best_rank": 11,
       "breakout_score": 72.0,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/117120174438017"
-    },
-    {
-      "id": 133936241081277,
-      "name": "Animated Cyber Visor Eye (L) [White]",
-      "creator": "Move Bricks Studio",
-      "assetType": 44,
-      "slot": "Shoulder",
-      "floor": 55,
-      "price": 65,
-      "favs": 27,
-      "sources": [
-        "KW:visor #15"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 15,
-      "breakout_score": 71.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/133936241081277"
-    },
-    {
-      "id": 84767098915934,
-      "name": "Package Missing Texture Visor & Bow",
-      "creator": "SeonyeoHouse",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 3773,
-      "sources": [
-        "KW:visor #3"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 3,
-      "breakout_score": 71.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/84767098915934"
+      "url": "https://www.roblox.com/catalog/115292910388614"
     },
     {
       "id": 74281548164754,
@@ -2217,28 +1940,7 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/74281548164754"
     },
     {
-      "id": 88372968605381,
-      "name": "Mask",
-      "creator": "'Vision'",
-      "assetType": 42,
-      "slot": "Face",
-      "floor": 95,
-      "price": 95,
-      "favs": 1240,
-      "sources": [
-        "KW:mask #12"
-      ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 12,
-      "breakout_score": 71.6,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/88372968605381"
-    },
-    {
-      "id": 122446901143255,
+      "id": 79872318329464,
       "name": "Goose Beanie",
       "creator": "6 ᅠ ᅠ",
       "assetType": 8,
@@ -2254,28 +1956,7 @@ window.__DWANCHI_TRENDS__ = {
       "breakout_score": 71.5,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/122446901143255"
-    },
-    {
-      "id": 16831172065,
-      "name": "Combat Visor Raised",
-      "creator": "GOD | ACRD",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 893,
-      "sources": [
-        "KW:visor #13"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 13,
-      "breakout_score": 71.5,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/16831172065"
+      "url": "https://www.roblox.com/catalog/79872318329464"
     },
     {
       "id": 102558743999202,
@@ -2285,7 +1966,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Waist",
       "floor": 65,
       "price": 65,
-      "favs": 1928,
+      "favs": 1929,
       "sources": [
         "KW:armor #10"
       ],
@@ -2299,68 +1980,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/102558743999202"
     },
     {
-      "id": 90001040249317,
-      "name": "Shiesty Ski Mask YN Pro V1",
-      "creator": "Black_Market.",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 90,
-      "favs": 2258,
-      "sources": [
-        "KW:mask #9"
-      ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 9,
-      "breakout_score": 71.4,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/90001040249317"
-    },
-    {
-      "id": 89809295283971,
-      "name": "good boy text",
-      "creator": "ShadowStyles",
-      "assetType": 44,
-      "slot": "Shoulder",
-      "floor": 55,
-      "price": 55,
-      "favs": 1634,
-      "sources": [
-        "Day Best #11",
-        "Week Best #37"
-      ],
-      "keywords": [],
-      "best_rank": 11,
-      "breakout_score": 71.3,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/89809295283971"
-    },
-    {
-      "id": 75900863780133,
-      "name": "black tattoo choker",
-      "creator": "tan",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 4124,
-      "sources": [
-        "KW:choker #2"
-      ],
-      "keywords": [
-        "choker"
-      ],
-      "best_rank": 2,
-      "breakout_score": 71.1,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/75900863780133"
-    },
-    {
       "id": 80372309663173,
       "name": "[D1-VG-2202] ARES-CORE Shoulder Armor L - Black",
       "creator": "Osu Corp",
@@ -2368,7 +1987,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Shoulder",
       "floor": 55,
       "price": 70,
-      "favs": 198,
+      "favs": 200,
       "sources": [
         "KW:armor #15"
       ],
@@ -2403,6 +2022,46 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/119006727673909"
     },
     {
+      "id": 117120174438017,
+      "name": "Sasuke Curse Mark",
+      "creator": "rhulk",
+      "assetType": 42,
+      "slot": "Face",
+      "floor": 95,
+      "price": 90,
+      "favs": 1496,
+      "sources": [
+        "KW:cursed #12"
+      ],
+      "keywords": [
+        "cursed"
+      ],
+      "best_rank": 12,
+      "breakout_score": 70.2,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/117120174438017"
+    },
+    {
+      "id": 106012774319975,
+      "name": "Static Wolf Head",
+      "creator": "Hlghnoon",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 90,
+      "favs": 2156,
+      "sources": [
+        "Day Rising #10"
+      ],
+      "keywords": [],
+      "best_rank": 10,
+      "breakout_score": 70.2,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/106012774319975"
+    },
+    {
       "id": 110912930664855,
       "name": "Blade Necklace",
       "creator": "Lucky 06",
@@ -2424,97 +2083,14 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/110912930664855"
     },
     {
-      "id": 88721021754934,
-      "name": "Black and Gold Netherworld Horns",
-      "creator": "bucket",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 816,
-      "sources": [
-        "KW:horns #14"
-      ],
-      "keywords": [
-        "horns"
-      ],
-      "best_rank": 14,
-      "breakout_score": 70.0,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/88721021754934"
-    },
-    {
-      "id": 86508756890952,
-      "name": "Animated Cyber Visor Eye (R) [White]",
-      "creator": "Move Bricks Studio",
-      "assetType": 44,
-      "slot": "Shoulder",
-      "floor": 55,
-      "price": 65,
-      "favs": 29,
-      "sources": [
-        "KW:visor #16"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 16,
-      "breakout_score": 69.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/86508756890952"
-    },
-    {
-      "id": 88348859512166,
-      "name": "Deep Herald Armor (Ocean)",
-      "creator": "Dev_R0VER",
-      "assetType": 45,
-      "slot": "Front",
-      "floor": 55,
-      "price": 55,
-      "favs": 53,
-      "sources": [
-        "KW:armor #16"
-      ],
-      "keywords": [
-        "armor"
-      ],
-      "best_rank": 16,
-      "breakout_score": 69.8,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/88348859512166"
-    },
-    {
-      "id": 70628516537542,
-      "name": "Christmas",
-      "creator": "ketchup rice",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 1217,
-      "sources": [
-        "Day Best #13",
-        "Week Best #16"
-      ],
-      "keywords": [],
-      "best_rank": 13,
-      "breakout_score": 69.8,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/70628516537542"
-    },
-    {
-      "id": 133931380410480,
+      "id": 122446901143255,
       "name": "Goose Beanie",
       "creator": "6 ᅠ ᅠ",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 500,
+      "favs": 503,
       "sources": [
         "Day Rising #15"
       ],
@@ -2523,28 +2099,28 @@ window.__DWANCHI_TRENDS__ = {
       "breakout_score": 69.6,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/133931380410480"
+      "url": "https://www.roblox.com/catalog/122446901143255"
     },
     {
-      "id": 107497102988622,
-      "name": "Cartoony Horns and Halo White",
-      "creator": "Cartoony Ugcs!",
+      "id": 72536673181871,
+      "name": "Military Black Helmet",
+      "creator": "ufotabIe",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 1299,
+      "favs": 1638,
       "sources": [
-        "KW:horns #13"
+        "KW:helmet #12"
       ],
       "keywords": [
-        "horns"
+        "helmet"
       ],
-      "best_rank": 13,
-      "breakout_score": 69.4,
+      "best_rank": 12,
+      "breakout_score": 69.5,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/107497102988622"
+      "url": "https://www.roblox.com/catalog/72536673181871"
     },
     {
       "id": 96050229412902,
@@ -2568,46 +2144,69 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/96050229412902"
     },
     {
-      "id": 119446980245960,
-      "name": "Skull Face Mask Black",
-      "creator": "Arnamco | ACG",
+      "id": 81964730609735,
+      "name": "Military Camo Helmet Sand Army War Ops",
+      "creator": "Only Costumes",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 1366,
+      "favs": 609,
       "sources": [
-        "KW:mask #13"
+        "KW:helmet #15"
       ],
       "keywords": [
-        "mask"
+        "helmet"
       ],
-      "best_rank": 13,
+      "best_rank": 15,
       "breakout_score": 69.1,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/119446980245960"
+      "url": "https://www.roblox.com/catalog/81964730609735"
     },
     {
-      "id": 86448062127859,
-      "name": "Heart Choker Black [3.0]",
-      "creator": "Kens UGCs",
-      "assetType": 43,
-      "slot": "Neck",
+      "id": 81309247621911,
+      "name": "Christmas",
+      "creator": "50k Christmas",
+      "assetType": 44,
+      "slot": "Shoulder",
       "floor": 55,
       "price": 55,
-      "favs": 1783,
+      "favs": 648,
       "sources": [
-        "KW:choker #12"
+        "Day Best #77",
+        "Week Best #42",
+        "KW:christmas #15"
       ],
       "keywords": [
-        "choker"
+        "christmas"
       ],
-      "best_rank": 12,
-      "breakout_score": 68.7,
+      "best_rank": 15,
+      "breakout_score": 68.9,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/86448062127859"
+      "url": "https://www.roblox.com/catalog/81309247621911"
+    },
+    {
+      "id": 71870975243694,
+      "name": "White Leopard Print Y2k Beanie",
+      "creator": "M11!",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 2999,
+      "sources": [
+        "KW:y2k #8"
+      ],
+      "keywords": [
+        "y2k"
+      ],
+      "best_rank": 8,
+      "breakout_score": 68.8,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/71870975243694"
     },
     {
       "id": 89022123208501,
@@ -2631,26 +2230,74 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/89022123208501"
     },
     {
-      "id": 106012774319975,
-      "name": "Static Wolf Head",
-      "creator": "Hlghnoon",
+      "id": 129278995181160,
+      "name": "Christmas Hat Dark Red Santa New Year Natal 🎅",
+      "creator": "Chibi Couture",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
-      "price": 90,
-      "favs": 2144,
+      "price": 95,
+      "favs": 2500,
       "sources": [
-        "Day Rising #11"
+        "Day Best #31",
+        "Week Best #21",
+        "KW:christmas #10"
       ],
-      "keywords": [],
-      "best_rank": 11,
-      "breakout_score": 68.6,
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 10,
+      "breakout_score": 68.3,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/106012774319975"
+      "url": "https://www.roblox.com/catalog/129278995181160"
     },
     {
-      "id": 72732821204786,
+      "id": 83054621625071,
+      "name": "✅ Christmas Tree Valkyrie",
+      "creator": "Glowz UGC",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 1943,
+      "sources": [
+        "Day Best #67",
+        "Week Best #34",
+        "KW:christmas #12"
+      ],
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 12,
+      "breakout_score": 67.9,
+      "low_fav_breakout": true,
+      "copyright_clean_title": false,
+      "url": "https://www.roblox.com/catalog/83054621625071"
+    },
+    {
+      "id": 88348859512166,
+      "name": "Deep Herald Armor (Ocean)",
+      "creator": "Dev_R0VER",
+      "assetType": 45,
+      "slot": "Front",
+      "floor": 55,
+      "price": 55,
+      "favs": 53,
+      "sources": [
+        "KW:armor #17"
+      ],
+      "keywords": [
+        "armor"
+      ],
+      "best_rank": 17,
+      "breakout_score": 67.8,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/88348859512166"
+    },
+    {
+      "id": 133931380410480,
       "name": "Goose Beanie",
       "creator": "6 ᅠ ᅠ",
       "assetType": 8,
@@ -2666,7 +2313,7 @@ window.__DWANCHI_TRENDS__ = {
       "breakout_score": 67.7,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/72732821204786"
+      "url": "https://www.roblox.com/catalog/133931380410480"
     },
     {
       "id": 89809594812664,
@@ -2711,27 +2358,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/120968300037925"
     },
     {
-      "id": 115863516867995,
-      "name": "Black Tactical Ski Mask",
-      "creator": "777〤",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 514,
-      "sources": [
-        "KW:mask #16"
-      ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 16,
-      "breakout_score": 67.6,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/115863516867995"
-    },
-    {
       "id": 106526642664773,
       "name": "Blade Dancer Left R6",
       "creator": "BlackoutUGC",
@@ -2751,27 +2377,6 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/106526642664773"
-    },
-    {
-      "id": 134509324925691,
-      "name": "autism chain necklace",
-      "creator": "On Clearance",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 3996,
-      "sources": [
-        "KW:chains #5"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 5,
-      "breakout_score": 67.5,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/134509324925691"
     },
     {
       "id": 105908224096928,
@@ -2795,48 +2400,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/105908224096928"
     },
     {
-      "id": 118503896076266,
-      "name": "[D1-VG-2202] ARES-CORE Shoulder Armor R - Black",
-      "creator": "Osu Corp",
-      "assetType": 44,
-      "slot": "Shoulder",
-      "floor": 55,
-      "price": 70,
-      "favs": 182,
-      "sources": [
-        "KW:armor #17"
-      ],
-      "keywords": [
-        "armor"
-      ],
-      "best_rank": 17,
-      "breakout_score": 67.2,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/118503896076266"
-    },
-    {
-      "id": 95833358145177,
-      "name": "♡ ꒰ kawaii tweencore mezzo piano hot pink visor",
-      "creator": "aikyu",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 1377,
-      "sources": [
-        "KW:visor #14"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 14,
-      "breakout_score": 67.2,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/95833358145177"
-    },
-    {
       "id": 123746808254406,
       "name": "Lei Heng's Tiantui Star's Blade",
       "creator": "La Manchaland Sisyphe",
@@ -2856,27 +2419,6 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/123746808254406"
-    },
-    {
-      "id": 103573623089138,
-      "name": "Cyber Future Visor Neon EDM",
-      "creator": "gearspec",
-      "assetType": 42,
-      "slot": "Face",
-      "floor": 95,
-      "price": 95,
-      "favs": 345,
-      "sources": [
-        "KW:visor #17"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 17,
-      "breakout_score": 66.4,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/103573623089138"
     },
     {
       "id": 17046896957,
@@ -2907,7 +2449,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Front",
       "floor": 55,
       "price": 55,
-      "favs": 830,
+      "favs": 829,
       "sources": [
         "KW:cloak #16"
       ],
@@ -2963,11 +2505,11 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/86091457138871"
     },
     {
-      "id": 92909577000858,
-      "name": "Grey Snowflake Glasses",
-      "creator": "Events UGC",
-      "assetType": 42,
-      "slot": "Face",
+      "id": 72732821204786,
+      "name": "Goose Beanie",
+      "creator": "6 ᅠ ᅠ",
+      "assetType": 8,
+      "slot": "Hat",
       "floor": 95,
       "price": 95,
       "favs": 500,
@@ -2979,7 +2521,7 @@ window.__DWANCHI_TRENDS__ = {
       "breakout_score": 65.7,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/92909577000858"
+      "url": "https://www.roblox.com/catalog/72732821204786"
     },
     {
       "id": 83950655384855,
@@ -2989,7 +2531,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Waist",
       "floor": 65,
       "price": 65,
-      "favs": 4306,
+      "favs": 4307,
       "sources": [
         "KW:sigil #5"
       ],
@@ -3003,46 +2545,92 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/83950655384855"
     },
     {
-      "id": 78229234323335,
-      "name": "Cartoony Galaxy Crown🌌",
-      "creator": "B5 UGC",
+      "id": 74297741207696,
+      "name": "6B45 Armored Rig (General Purpose, EMR)",
+      "creator": "Cry Precision",
+      "assetType": 45,
+      "slot": "Front",
+      "floor": 55,
+      "price": 65,
+      "favs": 972,
+      "sources": [
+        "KW:armor #16"
+      ],
+      "keywords": [
+        "armor"
+      ],
+      "best_rank": 16,
+      "breakout_score": 65.5,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/74297741207696"
+    },
+    {
+      "id": 118503896076266,
+      "name": "[D1-VG-2202] ARES-CORE Shoulder Armor R - Black",
+      "creator": "Osu Corp",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 70,
+      "favs": 184,
+      "sources": [
+        "KW:armor #18"
+      ],
+      "keywords": [
+        "armor"
+      ],
+      "best_rank": 18,
+      "breakout_score": 65.2,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/118503896076266"
+    },
+    {
+      "id": 113256557818875,
+      "name": "Christmas Santa Hat",
+      "creator": "Glowz UGC",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 1476,
+      "favs": 248,
       "sources": [
-        "KW:crown #15"
+        "Day Best #41",
+        "Week Best #57",
+        "KW:christmas #18"
       ],
       "keywords": [
-        "crown"
+        "christmas"
       ],
-      "best_rank": 15,
+      "best_rank": 18,
       "breakout_score": 64.9,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/78229234323335"
+      "url": "https://www.roblox.com/catalog/113256557818875"
     },
     {
-      "id": 131715655704289,
-      "name": "Black Face Mask",
-      "creator": "Shadow Revenants",
-      "assetType": 42,
-      "slot": "Face",
+      "id": 123725951778786,
+      "name": "Christmas",
+      "creator": "50k Christmas",
+      "assetType": 8,
+      "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 283,
+      "favs": 5060,
       "sources": [
-        "KW:mask #18"
+        "Day Best #5",
+        "Week Best #5",
+        "KW:christmas #2"
       ],
       "keywords": [
-        "mask"
+        "christmas"
       ],
-      "best_rank": 18,
-      "breakout_score": 64.8,
-      "low_fav_breakout": true,
+      "best_rank": 2,
+      "breakout_score": 64.9,
+      "low_fav_breakout": false,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/131715655704289"
+      "url": "https://www.roblox.com/catalog/123725951778786"
     },
     {
       "id": 135732368531171,
@@ -3052,7 +2640,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Back",
       "floor": 140,
       "price": 140,
-      "favs": 4218,
+      "favs": 4219,
       "sources": [
         "KW:blade #6"
       ],
@@ -3064,27 +2652,6 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/135732368531171"
-    },
-    {
-      "id": 135559890234978,
-      "name": "⏳ Rainbow Animated Neon Fiery Horns",
-      "creator": "Aura Drops",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 4688,
-      "sources": [
-        "KW:horns #4"
-      ],
-      "keywords": [
-        "horns"
-      ],
-      "best_rank": 4,
-      "breakout_score": 64.6,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/135559890234978"
     },
     {
       "id": 113969746898261,
@@ -3108,27 +2675,43 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/113969746898261"
     },
     {
-      "id": 113936189730604,
-      "name": "Black Tactical Neck Gaiter Face Mask",
-      "creator": "Prysm UGC",
-      "assetType": 43,
-      "slot": "Neck",
+      "id": 89809295283971,
+      "name": "good boy text",
+      "creator": "ShadowStyles",
+      "assetType": 44,
+      "slot": "Shoulder",
       "floor": 55,
       "price": 55,
-      "favs": 5419,
+      "favs": 1645,
       "sources": [
-        "Day Best #24",
-        "Week Best #23",
-        "KW:mask #1"
+        "Day Best #15",
+        "Week Best #37"
       ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 1,
-      "breakout_score": 63.9,
-      "low_fav_breakout": false,
+      "keywords": [],
+      "best_rank": 15,
+      "breakout_score": 64.1,
+      "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/113936189730604"
+      "url": "https://www.roblox.com/catalog/89809295283971"
+    },
+    {
+      "id": 92909577000858,
+      "name": "Grey Snowflake Glasses",
+      "creator": "Events UGC",
+      "assetType": 42,
+      "slot": "Face",
+      "floor": 95,
+      "price": 95,
+      "favs": 500,
+      "sources": [
+        "Day Rising #18"
+      ],
+      "keywords": [],
+      "best_rank": 18,
+      "breakout_score": 63.8,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/92909577000858"
     },
     {
       "id": 80069109455178,
@@ -3152,88 +2735,26 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/80069109455178"
     },
     {
-      "id": 81137095602172,
-      "name": "Black Void Star Crown",
-      "creator": "The.Archive",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 105,
-      "favs": 518,
-      "sources": [
-        "KW:crown #18"
-      ],
-      "keywords": [
-        "crown"
-      ],
-      "best_rank": 18,
-      "breakout_score": 63.7,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/81137095602172"
-    },
-    {
-      "id": 129553179219590,
-      "name": "[ANIMATED] Grey Glitch Spiked Horns",
-      "creator": ".L3NXQ",
+      "id": 99026660375515,
+      "name": "Studded Yellow Goth Yabujin Y2K Evade Spiked Hood",
+      "creator": "Linphéa",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 597,
+      "favs": 3444,
       "sources": [
-        "KW:horns #18"
+        "Day Rising #37",
+        "KW:goth #10"
       ],
       "keywords": [
-        "horns"
+        "goth"
       ],
-      "best_rank": 18,
-      "breakout_score": 63.4,
+      "best_rank": 10,
+      "breakout_score": 63.2,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/129553179219590"
-    },
-    {
-      "id": 130627105544823,
-      "name": "4.0 iced out red slime slums chain w double cubans",
-      "creator": "ChainENT",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 1084,
-      "sources": [
-        "KW:chains #17"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 17,
-      "breakout_score": 63.1,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/130627105544823"
-    },
-    {
-      "id": 80812035227335,
-      "name": "Diamond of Domino Crown",
-      "creator": "ScriptingZek",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 999999999,
-      "favs": 271,
-      "sources": [
-        "KW:crown #19"
-      ],
-      "keywords": [
-        "crown"
-      ],
-      "best_rank": 19,
-      "breakout_score": 62.8,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/80812035227335"
+      "url": "https://www.roblox.com/catalog/99026660375515"
     },
     {
       "id": 129513807634254,
@@ -3257,6 +2778,28 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/129513807634254"
     },
     {
+      "id": 84016972911673,
+      "name": "Christmas",
+      "creator": "MIKE UGC",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 1667,
+      "sources": [
+        "Week Best #49",
+        "KW:christmas #16"
+      ],
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 16,
+      "breakout_score": 62.2,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/84016972911673"
+    },
+    {
       "id": 84400267306456,
       "name": "Korblox Monarch Cape",
       "creator": "Toebuu",
@@ -3278,25 +2821,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/84400267306456"
     },
     {
-      "id": 74297741207696,
-      "name": "6B45 Armored Rig (General Purpose, EMR)",
-      "creator": "Cry Precision",
-      "assetType": 45,
-      "slot": "Front",
-      "floor": 55,
-      "price": 65,
-      "favs": 969,
+      "id": 86537686195753,
+      "name": "Black & Grey Football Helmet",
+      "creator": "Sovereign Sportswear",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 972,
       "sources": [
-        "KW:armor #18"
+        "KW:helmet #18"
       ],
       "keywords": [
-        "armor"
+        "helmet"
       ],
       "best_rank": 18,
       "breakout_score": 61.7,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/74297741207696"
+      "url": "https://www.roblox.com/catalog/86537686195753"
     },
     {
       "id": 132779076960661,
@@ -3320,27 +2863,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/132779076960661"
     },
     {
-      "id": 90982254786684,
-      "name": "[⌛RED] Stormblazing Horns",
-      "creator": "Paradx",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 129,
-      "favs": 1408,
-      "sources": [
-        "KW:horns #17"
-      ],
-      "keywords": [
-        "horns"
-      ],
-      "best_rank": 17,
-      "breakout_score": 61.6,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/90982254786684"
-    },
-    {
       "id": 105741656781433,
       "name": "Pink Love Aura Cupid Wings",
       "creator": "Impulse UGC",
@@ -3348,20 +2870,62 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Shoulder",
       "floor": 55,
       "price": 55,
-      "favs": 1024,
+      "favs": 1029,
       "sources": [
-        "KW:aura #18",
-        "KW:wings #23"
+        "KW:aura #18"
       ],
       "keywords": [
-        "aura",
-        "wings"
+        "aura"
       ],
       "best_rank": 18,
       "breakout_score": 61.5,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/105741656781433"
+    },
+    {
+      "id": 117021544168081,
+      "name": "christmas hat with bow ♡",
+      "creator": "Few Bux's UGC",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 2554,
+      "sources": [
+        "Day Best #23",
+        "Week Best #41",
+        "KW:christmas #14"
+      ],
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 14,
+      "breakout_score": 61.4,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/117021544168081"
+    },
+    {
+      "id": 125090100414498,
+      "name": "Bikelife Helmet Fullface Ultra Rydr Replica Black",
+      "creator": "#2KZY",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 163,
+      "sources": [
+        "KW:helmet #20"
+      ],
+      "keywords": [
+        "helmet"
+      ],
+      "best_rank": 20,
+      "breakout_score": 61.3,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/125090100414498"
     },
     {
       "id": 107573301072693,
@@ -3371,7 +2935,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Face",
       "floor": 95,
       "price": 95,
-      "favs": 2589,
+      "favs": 2590,
       "sources": [
         "KW:cursed #14"
       ],
@@ -3385,172 +2949,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/107573301072693"
     },
     {
-      "id": 127662133511369,
-      "name": "Pink Diamond of Domino Crown",
-      "creator": "ScriptingZek",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 676676676,
-      "favs": 241,
-      "sources": [
-        "Day Best #48",
-        "KW:crown #20"
-      ],
-      "keywords": [
-        "crown"
-      ],
-      "best_rank": 20,
-      "breakout_score": 61.0,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/127662133511369"
-    },
-    {
-      "id": 125066990963938,
-      "name": "[ANIMATED] Prototype-0 Energy Blade Ethereal White",
-      "creator": "hav_iir",
-      "assetType": 46,
-      "slot": "Back",
-      "floor": 140,
-      "price": 140,
-      "favs": 241,
-      "sources": [
-        "KW:blade #20"
-      ],
-      "keywords": [
-        "blade"
-      ],
-      "best_rank": 20,
-      "breakout_score": 61.0,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/125066990963938"
-    },
-    {
-      "id": 80930148273922,
-      "name": "cutesy ruffled doll lace bow choker in white",
-      "creator": "amuni",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 2952,
-      "sources": [
-        "KW:choker #13"
-      ],
-      "keywords": [
-        "choker"
-      ],
-      "best_rank": 13,
-      "breakout_score": 61.0,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/80930148273922"
-    },
-    {
-      "id": 123725951778786,
-      "name": "Christmas",
-      "creator": "50k Christmas",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 5055,
-      "sources": [
-        "Day Best #5",
-        "Week Best #5"
-      ],
-      "keywords": [],
-      "best_rank": 5,
-      "breakout_score": 61.0,
-      "low_fav_breakout": false,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/123725951778786"
-    },
-    {
-      "id": 125777344114119,
-      "name": "Pink & Teal Layered Pearl Necklace Button Choker",
-      "creator": "Gyarufiction",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 1968,
-      "sources": [
-        "KW:choker #16"
-      ],
-      "keywords": [
-        "choker"
-      ],
-      "best_rank": 16,
-      "breakout_score": 60.8,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/125777344114119"
-    },
-    {
-      "id": 127292540343907,
-      "name": "Target Mask",
-      "creator": "Nosniy Games",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 397,
-      "sources": [
-        "KW:mask #20"
-      ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 20,
-      "breakout_score": 60.4,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/127292540343907"
-    },
-    {
-      "id": 125657332155295,
-      "name": "Black Horns",
-      "creator": "OceanCraft UGC",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 4227,
-      "sources": [
-        "KW:horns #9"
-      ],
-      "keywords": [
-        "horns"
-      ],
-      "best_rank": 9,
-      "breakout_score": 60.3,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/125657332155295"
-    },
-    {
-      "id": 91328178620963,
-      "name": "Christmas Reindeer Antlers Headband",
-      "creator": "48K UGC",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 451,
-      "sources": [
-        "Day Rising #20"
-      ],
-      "keywords": [],
-      "best_rank": 20,
-      "breakout_score": 60.1,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/91328178620963"
-    },
-    {
       "id": 93684902595797,
       "name": "Verity Aura",
       "creator": "Drop's UGC",
@@ -3558,7 +2956,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Shoulder",
       "floor": 55,
       "price": 55,
-      "favs": 1743,
+      "favs": 1742,
       "sources": [
         "KW:aura #17"
       ],
@@ -3570,27 +2968,6 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/93684902595797"
-    },
-    {
-      "id": 95609134891885,
-      "name": "꒰ pretty fawn choker reindeer ruffled bell antlers",
-      "creator": "suqarcookies",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 932,
-      "sources": [
-        "KW:choker #19"
-      ],
-      "keywords": [
-        "choker"
-      ],
-      "best_rank": 19,
-      "breakout_score": 60.0,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/95609134891885"
     },
     {
       "id": 118971460088230,
@@ -3612,27 +2989,6 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/118971460088230"
-    },
-    {
-      "id": 119173200378198,
-      "name": "Red Vampire Monarch Cape",
-      "creator": "Toebuu",
-      "assetType": 46,
-      "slot": "Back",
-      "floor": 140,
-      "price": 140,
-      "favs": 37,
-      "sources": [
-        "KW:monarch #21"
-      ],
-      "keywords": [
-        "monarch"
-      ],
-      "best_rank": 21,
-      "breakout_score": 59.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/119173200378198"
     },
     {
       "id": 108409368282676,
@@ -3677,25 +3033,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/99562595427761"
     },
     {
-      "id": 89754389040466,
-      "name": "GOLD VIP CHAIN NECKLACE",
-      "creator": "On Clearance",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 3070,
+      "id": 136002598008289,
+      "name": "The Dark Lord's Blade (AVA)",
+      "creator": "Animation vs Accessories (AvA)",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 711,
       "sources": [
-        "KW:chains #14"
+        "KW:blade #20"
       ],
       "keywords": [
-        "chains"
+        "blade"
       ],
-      "best_rank": 14,
-      "breakout_score": 58.9,
+      "best_rank": 20,
+      "breakout_score": 59.1,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/89754389040466"
+      "url": "https://www.roblox.com/catalog/136002598008289"
     },
     {
       "id": 87473395488157,
@@ -3719,129 +3075,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/87473395488157"
     },
     {
-      "id": 107050914915122,
-      "name": "♡ cutesy black heart moe top w choker",
-      "creator": "soniico",
-      "assetType": 45,
-      "slot": "Front",
-      "floor": 55,
-      "price": 55,
-      "favs": 886,
+      "id": 107767436416133,
+      "name": "Green and Black Monarch Cape",
+      "creator": "Brushwork",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 145,
+      "favs": 327,
       "sources": [
-        "KW:choker #20"
+        "KW:monarch #21"
       ],
       "keywords": [
-        "choker"
+        "monarch"
       ],
-      "best_rank": 20,
-      "breakout_score": 58.3,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/107050914915122"
-    },
-    {
-      "id": 95474175394140,
-      "name": "White Classic Stylish Fedora",
-      "creator": "cvrsee.",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 484,
-      "sources": [
-        "Day Rising #21"
-      ],
-      "keywords": [],
       "best_rank": 21,
-      "breakout_score": 58.1,
-      "low_fav_breakout": true,
-      "copyright_clean_title": false,
-      "url": "https://www.roblox.com/catalog/95474175394140"
-    },
-    {
-      "id": 103815529288099,
-      "name": "Curse Mark",
-      "creator": "[ Content Deleted 203002249 ]",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 2571,
-      "sources": [
-        "KW:cursed #16"
-      ],
-      "keywords": [
-        "cursed"
-      ],
-      "best_rank": 16,
-      "breakout_score": 58.0,
+      "breakout_score": 58.7,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/103815529288099"
-    },
-    {
-      "id": 77768812563857,
-      "name": "Black spinel Domino Crown",
-      "creator": "LARP COMMUNITYs",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 30,
-      "sources": [
-        "Day Best #54",
-        "KW:crown #22"
-      ],
-      "keywords": [
-        "crown"
-      ],
-      "best_rank": 22,
-      "breakout_score": 57.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/77768812563857"
-    },
-    {
-      "id": 88721025568172,
-      "name": "black face mask",
-      "creator": "WhoseTrade",
-      "assetType": 42,
-      "slot": "Face",
-      "floor": 95,
-      "price": 95,
-      "favs": 3261,
-      "sources": [
-        "KW:mask #14"
-      ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 14,
-      "breakout_score": 57.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/88721025568172"
-    },
-    {
-      "id": 117506000933397,
-      "name": "Sigil Noli Body [Forsaken]",
-      "creator": "gigglicious",
-      "assetType": 45,
-      "slot": "Front",
-      "floor": 55,
-      "price": 55,
-      "favs": 49,
-      "sources": [
-        "KW:sigil #22"
-      ],
-      "keywords": [
-        "sigil"
-      ],
-      "best_rank": 22,
-      "breakout_score": 57.8,
-      "low_fav_breakout": true,
-      "copyright_clean_title": false,
-      "url": "https://www.roblox.com/catalog/117506000933397"
+      "url": "https://www.roblox.com/catalog/107767436416133"
     },
     {
       "id": 124282086647202,
@@ -3851,7 +3103,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Shoulder",
       "floor": 55,
       "price": 55,
-      "favs": 1011,
+      "favs": 1012,
       "sources": [
         "KW:armor #20"
       ],
@@ -3863,6 +3115,27 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/124282086647202"
+    },
+    {
+      "id": 139160646049842,
+      "name": "Frozen Monarch Ice Knight Helm",
+      "creator": "Divine Legend",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 70,
+      "sources": [
+        "KW:monarch #22"
+      ],
+      "keywords": [
+        "monarch"
+      ],
+      "best_rank": 22,
+      "breakout_score": 57.7,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/139160646049842"
     },
     {
       "id": 16589443942,
@@ -3884,92 +3157,6 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": false,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/16589443942"
-    },
-    {
-      "id": 136002598008289,
-      "name": "The Dark Lord's Blade (AVA)",
-      "creator": "Animation vs Accessories (AvA)",
-      "assetType": 46,
-      "slot": "Back",
-      "floor": 140,
-      "price": 140,
-      "favs": 711,
-      "sources": [
-        "KW:blade #21"
-      ],
-      "keywords": [
-        "blade"
-      ],
-      "best_rank": 21,
-      "breakout_score": 57.2,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/136002598008289"
-    },
-    {
-      "id": 17321891045,
-      "name": "black devil beret with Bows and horns",
-      "creator": "inveracity",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 5024,
-      "sources": [
-        "KW:horns #8"
-      ],
-      "keywords": [
-        "horns"
-      ],
-      "best_rank": 8,
-      "breakout_score": 57.2,
-      "low_fav_breakout": false,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/17321891045"
-    },
-    {
-      "id": 122776318835788,
-      "name": "Vulkan-5 Ballistic helmet (visor lifted)",
-      "creator": "HSST Federation",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 1181,
-      "sources": [
-        "KW:visor #20"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 20,
-      "breakout_score": 57.1,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/122776318835788"
-    },
-    {
-      "id": 111766982008938,
-      "name": "☑️ Purple Hat + Horns + Crown + Spiked Headphones",
-      "creator": "Devil’s UGC",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 299,
-      "favs": 1187,
-      "sources": [
-        "KW:crown #29",
-        "KW:horns #20"
-      ],
-      "keywords": [
-        "crown",
-        "horns"
-      ],
-      "best_rank": 20,
-      "breakout_score": 57.1,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/111766982008938"
     },
     {
       "id": 10120248293,
@@ -4000,7 +3187,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Shoulder",
       "floor": 55,
       "price": 55,
-      "favs": 1244,
+      "favs": 1245,
       "sources": [
         "KW:aura #20"
       ],
@@ -4014,109 +3201,65 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/128593597707361"
     },
     {
-      "id": 82942329628640,
-      "name": "Rolled Up Shiesty Ski Mask",
-      "creator": "Trap Archives",
+      "id": 91328178620963,
+      "name": "Christmas Reindeer Antlers Headband",
+      "creator": "48K UGC",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 6111,
+      "favs": 451,
       "sources": [
-        "KW:mask #3"
+        "Day Rising #22"
       ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 3,
-      "breakout_score": 56.9,
-      "low_fav_breakout": false,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/82942329628640"
-    },
-    {
-      "id": 89067548784624,
-      "name": "Cartoony Foltyn Mask White",
-      "creator": "Cartoony Ugcs!",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 90,
-      "favs": 3157,
-      "sources": [
-        "KW:mask #15"
-      ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 15,
-      "breakout_score": 56.8,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/89067548784624"
-    },
-    {
-      "id": 107767436416133,
-      "name": "Green and Black Monarch Cape",
-      "creator": "Brushwork",
-      "assetType": 46,
-      "slot": "Back",
-      "floor": 140,
-      "price": 145,
-      "favs": 327,
-      "sources": [
-        "KW:monarch #22"
-      ],
-      "keywords": [
-        "monarch"
-      ],
+      "keywords": [],
       "best_rank": 22,
-      "breakout_score": 56.7,
+      "breakout_score": 56.3,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/107767436416133"
+      "url": "https://www.roblox.com/catalog/91328178620963"
     },
     {
-      "id": 125258369023053,
-      "name": "crown",
-      "creator": "On Clearance",
+      "id": 103815529288099,
+      "name": "Curse Mark",
+      "creator": "[ Content Deleted 203002249 ]",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 4654,
+      "favs": 2571,
       "sources": [
-        "KW:crown #10"
+        "KW:cursed #17"
       ],
       "keywords": [
-        "crown"
+        "cursed"
       ],
-      "best_rank": 10,
-      "breakout_score": 56.6,
+      "best_rank": 17,
+      "breakout_score": 56.3,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/125258369023053"
+      "url": "https://www.roblox.com/catalog/103815529288099"
     },
     {
-      "id": 16589346313,
-      "name": "Golden Hell Bringer Visor",
-      "creator": "Dev_R0VER",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 392,
+      "id": 98220489861265,
+      "name": "Emo Goth Skull Distressed Torn Scarf Red",
+      "creator": "Only Emo Gothic",
+      "assetType": 43,
+      "slot": "Neck",
+      "floor": 55,
+      "price": 55,
+      "favs": 2220,
       "sources": [
-        "KW:visor #22"
+        "KW:goth #18"
       ],
       "keywords": [
-        "visor"
+        "goth"
       ],
-      "best_rank": 22,
-      "breakout_score": 56.5,
+      "best_rank": 18,
+      "breakout_score": 56.2,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/16589346313"
+      "url": "https://www.roblox.com/catalog/98220489861265"
     },
     {
       "id": 17268244809,
@@ -4140,25 +3283,67 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/17268244809"
     },
     {
-      "id": 129482388721486,
-      "name": "2020 Visor",
-      "creator": "Classic Limiteds",
-      "assetType": 8,
-      "slot": "Hat",
+      "id": 83407069157311,
+      "name": "black vkei goth spiked piercings",
+      "creator": "01:33",
+      "assetType": 42,
+      "slot": "Face",
       "floor": 95,
       "price": 95,
-      "favs": 2298,
+      "favs": 519,
       "sources": [
-        "KW:visor #18"
+        "KW:goth #22"
       ],
       "keywords": [
-        "visor"
+        "goth"
       ],
-      "best_rank": 18,
+      "best_rank": 22,
+      "breakout_score": 56.0,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/83407069157311"
+    },
+    {
+      "id": 111531186577468,
+      "name": "🦋 Monarch Butterflies On Torso [1.0]",
+      "creator": "Chaotiq",
+      "assetType": 45,
+      "slot": "Front",
+      "floor": 55,
+      "price": 55,
+      "favs": 36,
+      "sources": [
+        "KW:monarch #23"
+      ],
+      "keywords": [
+        "monarch"
+      ],
+      "best_rank": 23,
       "breakout_score": 55.9,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/129482388721486"
+      "url": "https://www.roblox.com/catalog/111531186577468"
+    },
+    {
+      "id": 106493654091652,
+      "name": "Black and Silver Y2K Waist Suspender",
+      "creator": "Loser or loser",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 36,
+      "sources": [
+        "KW:y2k #23"
+      ],
+      "keywords": [
+        "y2k"
+      ],
+      "best_rank": 23,
+      "breakout_score": 55.9,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/106493654091652"
     },
     {
       "id": 131770386517832,
@@ -4182,25 +3367,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/131770386517832"
     },
     {
-      "id": 139160646049842,
-      "name": "Frozen Monarch Ice Knight Helm",
-      "creator": "Divine Legend",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 70,
+      "id": 117506000933397,
+      "name": "Sigil Noli Body [Forsaken]",
+      "creator": "gigglicious",
+      "assetType": 45,
+      "slot": "Front",
+      "floor": 55,
+      "price": 55,
+      "favs": 49,
       "sources": [
-        "KW:monarch #23"
+        "KW:sigil #23"
       ],
       "keywords": [
-        "monarch"
+        "sigil"
       ],
       "best_rank": 23,
-      "breakout_score": 55.7,
+      "breakout_score": 55.8,
       "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/139160646049842"
+      "copyright_clean_title": false,
+      "url": "https://www.roblox.com/catalog/117506000933397"
     },
     {
       "id": 126042850945182,
@@ -4222,6 +3407,27 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/126042850945182"
+    },
+    {
+      "id": 120492417612327,
+      "name": "Infernal Fang Blade | Dark Gothic Waist Sword",
+      "creator": "adrian75556435",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 119,
+      "sources": [
+        "KW:blade #23"
+      ],
+      "keywords": [
+        "blade"
+      ],
+      "best_rank": 23,
+      "breakout_score": 55.6,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/120492417612327"
     },
     {
       "id": 90863599862340,
@@ -4293,8 +3499,8 @@ window.__DWANCHI_TRENDS__ = {
       "assetType": 46,
       "slot": "Back",
       "floor": 140,
-      "price": 6441,
-      "favs": 6346,
+      "price": 6500,
+      "favs": 6358,
       "sources": [
         "KW:blade #3"
       ],
@@ -4302,73 +3508,116 @@ window.__DWANCHI_TRENDS__ = {
         "blade"
       ],
       "best_rank": 3,
-      "breakout_score": 55.4,
+      "breakout_score": 55.3,
       "low_fav_breakout": false,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/14475021971"
     },
     {
-      "id": 109349282861393,
-      "name": "ᨳ dreamy unicorn princess horn pastel sprinkles",
-      "creator": "tinsier",
+      "id": 117762492426010,
+      "name": "Alt Goth Scene Moe Vkei Studded Striped Bear Hood",
+      "creator": "cozysUGC",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 2136,
+      "favs": 1227,
       "sources": [
-        "KW:horns #19"
+        "KW:goth #21"
       ],
       "keywords": [
-        "horns"
+        "goth"
       ],
-      "best_rank": 19,
-      "breakout_score": 54.9,
+      "best_rank": 21,
+      "breakout_score": 55.1,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/109349282861393"
+      "url": "https://www.roblox.com/catalog/117762492426010"
     },
     {
-      "id": 100682618584215,
-      "name": "money sign $ chain necklace",
-      "creator": "On Clearance",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 866,
+      "id": 101097110784408,
+      "name": "Black Sigil Gothic Esoteric Handheld Duffel Bag",
+      "creator": "lawofattraction",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 860,
       "sources": [
-        "KW:chains #22"
+        "KW:sigil #22"
       ],
       "keywords": [
-        "chains"
+        "sigil"
       ],
       "best_rank": 22,
       "breakout_score": 54.7,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/100682618584215"
+      "url": "https://www.roblox.com/catalog/101097110784408"
     },
     {
-      "id": 118999287920689,
-      "name": "Metallic Y2k grunge Aluminum Side Chains",
-      "creator": "Mythical Slayys",
-      "assetType": 47,
-      "slot": "Waist",
-      "floor": 65,
-      "price": 65,
-      "favs": 1372,
+      "id": 99390056782510,
+      "name": "Christmas",
+      "creator": "princesqua",
+      "assetType": 42,
+      "slot": "Face",
+      "floor": 95,
+      "price": 95,
+      "favs": 1336,
       "sources": [
-        "KW:chains #21"
+        "Week Best #85",
+        "KW:christmas #21"
       ],
       "keywords": [
-        "chains"
+        "christmas"
       ],
       "best_rank": 21,
-      "breakout_score": 54.5,
+      "breakout_score": 54.7,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/118999287920689"
+      "url": "https://www.roblox.com/catalog/99390056782510"
+    },
+    {
+      "id": 110739045786499,
+      "name": "Horror Bloody Saw Blades w Rust Prop",
+      "creator": "Jon_erikhexum57",
+      "assetType": 45,
+      "slot": "Front",
+      "floor": 55,
+      "price": 55,
+      "favs": 1356,
+      "sources": [
+        "KW:blade #21"
+      ],
+      "keywords": [
+        "blade"
+      ],
+      "best_rank": 21,
+      "breakout_score": 54.6,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/110739045786499"
+    },
+    {
+      "id": 133257278307400,
+      "name": "Black Tactical Military Helmet w Mask & Goggles",
+      "creator": "aftertone",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 450,
+      "sources": [
+        "KW:helmet #23"
+      ],
+      "keywords": [
+        "helmet"
+      ],
+      "best_rank": 23,
+      "breakout_score": 54.3,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/133257278307400"
     },
     {
       "id": 128368799369029,
@@ -4378,7 +3627,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Shoulder",
       "floor": 55,
       "price": 55,
-      "favs": 959,
+      "favs": 967,
       "sources": [
         "KW:aura #22"
       ],
@@ -4390,48 +3639,6 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/128368799369029"
-    },
-    {
-      "id": 139923143384643,
-      "name": "wings",
-      "creator": "Dodanuki UGC",
-      "assetType": 46,
-      "slot": "Back",
-      "floor": 140,
-      "price": 140,
-      "favs": 3356,
-      "sources": [
-        "KW:wings #16"
-      ],
-      "keywords": [
-        "wings"
-      ],
-      "best_rank": 16,
-      "breakout_score": 54.3,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/139923143384643"
-    },
-    {
-      "id": 111531186577468,
-      "name": "🦋 Monarch Butterflies On Torso [1.0]",
-      "creator": "Chaotiq",
-      "assetType": 45,
-      "slot": "Front",
-      "floor": 55,
-      "price": 55,
-      "favs": 36,
-      "sources": [
-        "KW:monarch #24"
-      ],
-      "keywords": [
-        "monarch"
-      ],
-      "best_rank": 24,
-      "breakout_score": 53.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/111531186577468"
     },
     {
       "id": 110828892262922,
@@ -4455,88 +3662,46 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/110828892262922"
     },
     {
-      "id": 129006829351423,
-      "name": "German Military Visor Cap Black",
-      "creator": "ATP JazzzC",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 115,
-      "favs": 551,
+      "id": 114093620416074,
+      "name": "Red and gold noble monarch left shoulder",
+      "creator": "Blue infinity studios",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 55,
+      "favs": 40,
       "sources": [
-        "KW:visor #23"
+        "KW:monarch #24"
       ],
       "keywords": [
-        "visor"
+        "monarch"
       ],
-      "best_rank": 23,
+      "best_rank": 24,
       "breakout_score": 53.9,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/129006829351423"
+      "url": "https://www.roblox.com/catalog/114093620416074"
     },
     {
-      "id": 118197218764409,
-      "name": "Black Ski Mask Tan Face Red Eye",
-      "creator": "#BLACKOUT ENT",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 105,
-      "favs": 57,
-      "sources": [
-        "KW:mask #24"
-      ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 24,
-      "breakout_score": 53.8,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/118197218764409"
-    },
-    {
-      "id": 110900217632789,
-      "name": "💎 Silver Iced Out Chain",
-      "creator": "Motion Catalog",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
+      "id": 95505790039368,
+      "name": "onyx heart & blade chain",
+      "creator": "OBSCURE DESIGNZ",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
       "price": 65,
-      "favs": 58,
+      "favs": 1074,
       "sources": [
-        "KW:chains #24"
+        "KW:blade #22"
       ],
       "keywords": [
-        "chains"
+        "blade"
       ],
-      "best_rank": 24,
+      "best_rank": 22,
       "breakout_score": 53.8,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/110900217632789"
-    },
-    {
-      "id": 127601634384278,
-      "name": "Silver of Domino Crown",
-      "creator": "ScriptingZek",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 414414414,
-      "favs": 108,
-      "sources": [
-        "KW:crown #24"
-      ],
-      "keywords": [
-        "crown"
-      ],
-      "best_rank": 24,
-      "breakout_score": 53.6,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/127601634384278"
+      "url": "https://www.roblox.com/catalog/95505790039368"
     },
     {
       "id": 71473734763099,
@@ -4546,9 +3711,9 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 4944,
+      "favs": 4946,
       "sources": [
-        "Day Best #15",
+        "Day Best #17",
         "Week Best #11"
       ],
       "keywords": [],
@@ -4559,88 +3724,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/71473734763099"
     },
     {
-      "id": 74056141809052,
-      "name": "Cyber Future Visor Red",
-      "creator": "gearspec",
-      "assetType": 42,
-      "slot": "Face",
+      "id": 135175288672309,
+      "name": "M1 Helmet",
+      "creator": "Chaotiq",
+      "assetType": 8,
+      "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 159,
+      "favs": 2599,
       "sources": [
-        "KW:visor #24"
+        "KW:helmet #19"
       ],
       "keywords": [
-        "visor"
+        "helmet"
       ],
-      "best_rank": 24,
-      "breakout_score": 53.4,
+      "best_rank": 19,
+      "breakout_score": 52.9,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/74056141809052"
-    },
-    {
-      "id": 93753835050948,
-      "name": "[Animated] Christmas Snowflake Aura",
-      "creator": "MFSC Ugc",
-      "assetType": 44,
-      "slot": "Shoulder",
-      "floor": 55,
-      "price": 55,
-      "favs": 211,
-      "sources": [
-        "KW:aura #24"
-      ],
-      "keywords": [
-        "aura"
-      ],
-      "best_rank": 24,
-      "breakout_score": 53.2,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/93753835050948"
-    },
-    {
-      "id": 101097110784408,
-      "name": "Black Sigil Gothic Esoteric Handheld Duffel Bag",
-      "creator": "lawofattraction",
-      "assetType": 47,
-      "slot": "Waist",
-      "floor": 65,
-      "price": 65,
-      "favs": 860,
-      "sources": [
-        "KW:sigil #23"
-      ],
-      "keywords": [
-        "sigil"
-      ],
-      "best_rank": 23,
-      "breakout_score": 52.8,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/101097110784408"
-    },
-    {
-      "id": 110739045786499,
-      "name": "Horror Bloody Saw Blades w Rust Prop",
-      "creator": "Jon_erikhexum57",
-      "assetType": 45,
-      "slot": "Front",
-      "floor": 55,
-      "price": 55,
-      "favs": 1356,
-      "sources": [
-        "KW:blade #22"
-      ],
-      "keywords": [
-        "blade"
-      ],
-      "best_rank": 22,
-      "breakout_score": 52.8,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/110739045786499"
+      "url": "https://www.roblox.com/catalog/135175288672309"
     },
     {
       "id": 135867224950531,
@@ -4650,7 +3752,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 2691,
+      "favs": 2692,
       "sources": [
         "KW:armor #19"
       ],
@@ -4664,25 +3766,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/135867224950531"
     },
     {
-      "id": 133529609574592,
-      "name": "wings",
-      "creator": "Dodanuki UGC",
-      "assetType": 46,
-      "slot": "Back",
-      "floor": 140,
-      "price": 140,
-      "favs": 2789,
+      "id": 101119051187182,
+      "name": "Clean Grey purple RedBull Motorcross Helmet",
+      "creator": "- Midnight-Studios -",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 1447,
       "sources": [
-        "KW:wings #19"
+        "KW:helmet #22"
       ],
       "keywords": [
-        "wings"
+        "helmet"
       ],
-      "best_rank": 19,
-      "breakout_score": 52.1,
+      "best_rank": 22,
+      "breakout_score": 52.4,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/133529609574592"
+      "url": "https://www.roblox.com/catalog/101119051187182"
     },
     {
       "id": 72529450074488,
@@ -4706,27 +3808,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/72529450074488"
     },
     {
-      "id": 95505790039368,
-      "name": "onyx heart & blade chain",
-      "creator": "OBSCURE DESIGNZ",
-      "assetType": 47,
-      "slot": "Waist",
-      "floor": 65,
-      "price": 65,
-      "favs": 1074,
-      "sources": [
-        "KW:blade #23"
-      ],
-      "keywords": [
-        "blade"
-      ],
-      "best_rank": 23,
-      "breakout_score": 52.0,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/95505790039368"
-    },
-    {
       "id": 115773703066185,
       "name": "armor",
       "creator": "Dodanuki UGC",
@@ -4748,25 +3829,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/115773703066185"
     },
     {
-      "id": 114093620416074,
-      "name": "Red and gold noble monarch left shoulder",
-      "creator": "Blue infinity studios",
-      "assetType": 44,
-      "slot": "Shoulder",
+      "id": 136603749391589,
+      "name": "3.0 Puffer Vest Hood White Cleezy Warm Jacket Y2K",
+      "creator": "Coast UGC",
+      "assetType": 45,
+      "slot": "Front",
       "floor": 55,
       "price": 55,
-      "favs": 40,
+      "favs": 5048,
       "sources": [
-        "KW:monarch #25"
+        "KW:y2k #12"
       ],
       "keywords": [
-        "monarch"
+        "y2k"
       ],
-      "best_rank": 25,
-      "breakout_score": 51.9,
-      "low_fav_breakout": true,
+      "best_rank": 12,
+      "breakout_score": 51.8,
+      "low_fav_breakout": false,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/114093620416074"
+      "url": "https://www.roblox.com/catalog/136603749391589"
     },
     {
       "id": 84760636475791,
@@ -4818,7 +3899,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Front",
       "floor": 55,
       "price": 55,
-      "favs": 115,
+      "favs": 116,
       "sources": [
         "KW:cursed #25"
       ],
@@ -4830,69 +3911,6 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/80817987355294"
-    },
-    {
-      "id": 120492417612327,
-      "name": "Infernal Fang Blade | Dark Gothic Waist Sword",
-      "creator": "adrian75556435",
-      "assetType": 47,
-      "slot": "Waist",
-      "floor": 65,
-      "price": 65,
-      "favs": 119,
-      "sources": [
-        "KW:blade #25"
-      ],
-      "keywords": [
-        "blade"
-      ],
-      "best_rank": 25,
-      "breakout_score": 51.6,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/120492417612327"
-    },
-    {
-      "id": 90255318356340,
-      "name": "Balaclava Black Mask Tactical Goggles Distressed",
-      "creator": "Coast UGC",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 90,
-      "favs": 5995,
-      "sources": [
-        "KW:mask #8"
-      ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 8,
-      "breakout_score": 51.6,
-      "low_fav_breakout": false,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/90255318356340"
-    },
-    {
-      "id": 14402116472,
-      "name": "Y2K Neon Green Drip Visor",
-      "creator": "Luka's Workshop",
-      "assetType": 42,
-      "slot": "Face",
-      "floor": 95,
-      "price": 95,
-      "favs": 2139,
-      "sources": [
-        "KW:visor #21"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 21,
-      "breakout_score": 51.4,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/14402116472"
     },
     {
       "id": 101640139046477,
@@ -4916,68 +3934,67 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/101640139046477"
     },
     {
-      "id": 84591356552726,
-      "name": "gothic vamp choker & silver layered necklaces 3.0",
-      "creator": "our demise",
-      "assetType": 43,
-      "slot": "Neck",
+      "id": 93753835050948,
+      "name": "[Animated] Christmas Snowflake Aura",
+      "creator": "MFSC Ugc",
+      "assetType": 44,
+      "slot": "Shoulder",
       "floor": 55,
       "price": 55,
-      "favs": 7294,
+      "favs": 213,
       "sources": [
-        "Week Best #86",
-        "KW:choker #1"
+        "KW:aura #25"
       ],
       "keywords": [
-        "choker"
+        "aura"
       ],
-      "best_rank": 1,
-      "breakout_score": 51.4,
-      "low_fav_breakout": false,
+      "best_rank": 25,
+      "breakout_score": 51.3,
+      "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/84591356552726"
+      "url": "https://www.roblox.com/catalog/93753835050948"
     },
     {
-      "id": 137494069288837,
-      "name": "Black Dragon Wings",
-      "creator": "Clover Tree",
-      "assetType": 46,
-      "slot": "Back",
-      "floor": 140,
-      "price": 140,
-      "favs": 5890,
-      "sources": [
-        "KW:wings #9"
-      ],
-      "keywords": [
-        "wings"
-      ],
-      "best_rank": 9,
-      "breakout_score": 51.0,
-      "low_fav_breakout": false,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/137494069288837"
-    },
-    {
-      "id": 71757362936188,
-      "name": "[⏳LIMITED] White Domino Crown",
-      "creator": "Hastyy UGC",
+      "id": 129318860590830,
+      "name": "Black Tactical Military Helmet w Mask & Goggles",
+      "creator": "aftertone",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 356,
+      "favs": 269,
       "sources": [
-        "KW:crown #25"
+        "KW:helmet #25"
       ],
       "keywords": [
-        "crown"
+        "helmet"
       ],
       "best_rank": 25,
-      "breakout_score": 50.8,
+      "breakout_score": 51.1,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/71757362936188"
+      "url": "https://www.roblox.com/catalog/129318860590830"
+    },
+    {
+      "id": 118100454317283,
+      "name": "Galaxy Charm Stacked Necklaces Emo Goth Silver",
+      "creator": "Only Emo Gothic",
+      "assetType": 43,
+      "slot": "Neck",
+      "floor": 55,
+      "price": 55,
+      "favs": 3051,
+      "sources": [
+        "KW:goth #19"
+      ],
+      "keywords": [
+        "goth"
+      ],
+      "best_rank": 19,
+      "breakout_score": 51.0,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/118100454317283"
     },
     {
       "id": 108562445523930,
@@ -5001,24 +4018,26 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/108562445523930"
     },
     {
-      "id": 129278995181160,
-      "name": "Christmas Hat Dark Red Santa New Year Natal 🎅",
-      "creator": "Chibi Couture",
+      "id": 107239195174749,
+      "name": "Christmas",
+      "creator": "mudxmas",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 2499,
+      "favs": 3224,
       "sources": [
-        "Day Best #29",
-        "Week Best #21"
+        "Week Best #70",
+        "KW:christmas #19"
       ],
-      "keywords": [],
-      "best_rank": 21,
-      "breakout_score": 50.0,
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 19,
+      "breakout_score": 50.2,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/129278995181160"
+      "url": "https://www.roblox.com/catalog/107239195174749"
     },
     {
       "id": 105998050067679,
@@ -5042,6 +4061,27 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/105998050067679"
     },
     {
+      "id": 130232603796164,
+      "name": "Red and gold noble monarch right shoulder",
+      "creator": "Blue infinity studios",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 55,
+      "favs": 40,
+      "sources": [
+        "KW:monarch #26"
+      ],
+      "keywords": [
+        "monarch"
+      ],
+      "best_rank": 26,
+      "breakout_score": 49.9,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/130232603796164"
+    },
+    {
       "id": 107574596420190,
       "name": "Red Bandit Cloak",
       "creator": "Optic Enhancements",
@@ -5049,7 +4089,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Front",
       "floor": 55,
       "price": 55,
-      "favs": 1160,
+      "favs": 1161,
       "sources": [
         "KW:cloak #24"
       ],
@@ -5063,46 +4103,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/107574596420190"
     },
     {
-      "id": 114308903410796,
-      "name": "Black Monster Claw Chain Iced Out 1.0",
-      "creator": "Super Based UGC",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 165,
-      "sources": [
-        "KW:chains #26"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 26,
-      "breakout_score": 49.5,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/114308903410796"
-    },
-    {
-      "id": 122093182090165,
-      "name": "♡ Cute Devil Horns with Hair Clips",
-      "creator": "Astore",
+      "id": 16424765931,
+      "name": "Professional Cycling Helmet Black With a Black Top",
+      "creator": "inv works",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 2193,
+      "favs": 1240,
       "sources": [
-        "KW:horns #22"
+        "KW:helmet #24"
       ],
       "keywords": [
-        "horns"
+        "helmet"
       ],
-      "best_rank": 22,
+      "best_rank": 24,
       "breakout_score": 49.5,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/122093182090165"
+      "url": "https://www.roblox.com/catalog/16424765931"
     },
     {
       "id": 78949336546211,
@@ -5124,67 +4143,50 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/78949336546211"
     },
     {
-      "id": 86418275841640,
-      "name": "Pearl Choker Necklace",
-      "creator": "Blizzei",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 6183,
-      "sources": [
-        "KW:choker #9"
-      ],
-      "keywords": [
-        "choker"
-      ],
-      "best_rank": 9,
-      "breakout_score": 49.4,
-      "low_fav_breakout": false,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/86418275841640"
-    },
-    {
-      "id": 128696352244852,
-      "name": "[UGC] Abyss Frost Horns",
-      "creator": "QuantumPhoenix Studio",
+      "id": 100467838297249,
+      "name": "Christmas",
+      "creator": "chunky mayo",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 249,
+      "favs": 6192,
       "sources": [
-        "KW:horns #26"
+        "Day Best #25",
+        "Week Best #20",
+        "KW:christmas #9"
       ],
       "keywords": [
-        "horns"
+        "christmas"
       ],
-      "best_rank": 26,
-      "breakout_score": 49.2,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/128696352244852"
-    },
-    {
-      "id": 129442970600130,
-      "name": "Emo Gothic Y2K Glasses Chain Black",
-      "creator": "Only Emo Gothic",
-      "assetType": 42,
-      "slot": "Face",
-      "floor": 95,
-      "price": 95,
-      "favs": 6798,
-      "sources": [
-        "KW:chains #6"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 6,
-      "breakout_score": 49.2,
+      "best_rank": 9,
+      "breakout_score": 49.3,
       "low_fav_breakout": false,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/129442970600130"
+      "url": "https://www.roblox.com/catalog/100467838297249"
+    },
+    {
+      "id": 86404483074277,
+      "name": "V2.0 Christmas Lights (Colored)",
+      "creator": "damagingdragoncat",
+      "assetType": 45,
+      "slot": "Front",
+      "floor": 55,
+      "price": 55,
+      "favs": 6597,
+      "sources": [
+        "Day Best #29",
+        "Week Best #15",
+        "KW:christmas #7"
+      ],
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 7,
+      "breakout_score": 49.3,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/86404483074277"
     },
     {
       "id": 83744891539048,
@@ -5208,6 +4210,48 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/83744891539048"
     },
     {
+      "id": 88734230980972,
+      "name": "Iron Warden Helmet",
+      "creator": "Dev_R0VER",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 330,
+      "sources": [
+        "KW:helmet #26"
+      ],
+      "keywords": [
+        "helmet"
+      ],
+      "best_rank": 26,
+      "breakout_score": 48.9,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/88734230980972"
+    },
+    {
+      "id": 76667185703358,
+      "name": "emo goth vkei scarf belted top in black",
+      "creator": "none",
+      "assetType": 45,
+      "slot": "Front",
+      "floor": 55,
+      "price": 55,
+      "favs": 4807,
+      "sources": [
+        "KW:goth #15"
+      ],
+      "keywords": [
+        "goth"
+      ],
+      "best_rank": 15,
+      "breakout_score": 48.9,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/76667185703358"
+    },
+    {
       "id": 114225227041651,
       "name": "Juggernaut Body Armor",
       "creator": "Black Wind Studios",
@@ -5215,7 +4259,7 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Back",
       "floor": 140,
       "price": 140,
-      "favs": 414,
+      "favs": 415,
       "sources": [
         "KW:armor #26"
       ],
@@ -5229,45 +4273,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/114225227041651"
     },
     {
-      "id": 114479588499349,
-      "name": "White Grunge Star Crown",
-      "creator": "KARNAGE UGC",
+      "id": 15625910919,
+      "name": "Army Helmet",
+      "creator": "ps tactical",
       "assetType": 8,
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 461,
+      "favs": 5401,
       "sources": [
-        "KW:crown #26"
+        "KW:helmet #13"
       ],
       "keywords": [
-        "crown"
+        "helmet"
       ],
-      "best_rank": 26,
-      "breakout_score": 48.5,
-      "low_fav_breakout": true,
+      "best_rank": 13,
+      "breakout_score": 48.6,
+      "low_fav_breakout": false,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/114479588499349"
-    },
-    {
-      "id": 113968382529920,
-      "name": "Christmas",
-      "creator": "Coast UGC",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 1013,
-      "sources": [
-        "Day Best #25",
-        "Week Best #32"
-      ],
-      "keywords": [],
-      "best_rank": 25,
-      "breakout_score": 48.5,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/113968382529920"
+      "url": "https://www.roblox.com/catalog/15625910919"
     },
     {
       "id": 94880444689705,
@@ -5291,25 +4315,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/94880444689705"
     },
     {
-      "id": 135828383529788,
-      "name": "gothic black cute ruffled lace choker necklace 3.0",
-      "creator": "our demise",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 578,
+      "id": 16753736095,
+      "name": "Blade of Mimicry",
+      "creator": "Eresh's Workshop",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 1098,
       "sources": [
-        "KW:choker #26"
+        "KW:blade #25"
       ],
       "keywords": [
-        "choker"
+        "blade"
       ],
-      "best_rank": 26,
-      "breakout_score": 48.1,
+      "best_rank": 25,
+      "breakout_score": 48.2,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/135828383529788"
+      "url": "https://www.roblox.com/catalog/16753736095"
     },
     {
       "id": 10120231903,
@@ -5333,25 +4357,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/10120231903"
     },
     {
-      "id": 96608401319735,
-      "name": "Fractured Marble Greek Statue Eye Cover",
-      "creator": "Ambience Moon",
-      "assetType": 42,
-      "slot": "Face",
-      "floor": 95,
-      "price": 95,
-      "favs": 4095,
-      "sources": [
-        "Day Rising #18"
-      ],
-      "keywords": [],
-      "best_rank": 18,
-      "breakout_score": 48.0,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/96608401319735"
-    },
-    {
       "id": 119509661296488,
       "name": "Sigil Noli [Forsaken]",
       "creator": "gigglicious",
@@ -5371,69 +4376,6 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": false,
       "url": "https://www.roblox.com/catalog/119509661296488"
-    },
-    {
-      "id": 138010181356166,
-      "name": "Animated Cyber Visor [White]",
-      "creator": "Move Bricks Studio",
-      "assetType": 42,
-      "slot": "Face",
-      "floor": 95,
-      "price": 105,
-      "favs": 24,
-      "sources": [
-        "KW:visor #27"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 27,
-      "breakout_score": 47.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/138010181356166"
-    },
-    {
-      "id": 130232603796164,
-      "name": "Red and gold noble monarch right shoulder",
-      "creator": "Blue infinity studios",
-      "assetType": 44,
-      "slot": "Shoulder",
-      "floor": 55,
-      "price": 55,
-      "favs": 40,
-      "sources": [
-        "KW:monarch #27"
-      ],
-      "keywords": [
-        "monarch"
-      ],
-      "best_rank": 27,
-      "breakout_score": 47.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/130232603796164"
-    },
-    {
-      "id": 79526523831550,
-      "name": "☆ Gold Pretty Sparkle Waist Chain",
-      "creator": "Mind & Beauty",
-      "assetType": 47,
-      "slot": "Waist",
-      "floor": 65,
-      "price": 65,
-      "favs": 4137,
-      "sources": [
-        "KW:chains #18"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 18,
-      "breakout_score": 47.8,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/79526523831550"
     },
     {
       "id": 108789623035622,
@@ -5457,27 +4399,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/108789623035622"
     },
     {
-      "id": 115876491367781,
-      "name": "[D1-VG-2202] ARES-CORE Main Armor - RED",
-      "creator": "Osu Corp",
-      "assetType": 46,
-      "slot": "Back",
-      "floor": 140,
-      "price": 150,
-      "favs": 124,
-      "sources": [
-        "KW:armor #27"
-      ],
-      "keywords": [
-        "armor"
-      ],
-      "best_rank": 27,
-      "breakout_score": 47.6,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/115876491367781"
-    },
-    {
       "id": 125595815252435,
       "name": "Glitched Knight Armor - Left Pauldron [1.0]",
       "creator": "Chaotiq",
@@ -5499,6 +4420,69 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/125595815252435"
     },
     {
+      "id": 125066990963938,
+      "name": "[ANIMATED] Prototype-0 Energy Blade Ethereal White",
+      "creator": "hav_iir",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 241,
+      "sources": [
+        "KW:blade #27"
+      ],
+      "keywords": [
+        "blade"
+      ],
+      "best_rank": 27,
+      "breakout_score": 47.2,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/125066990963938"
+    },
+    {
+      "id": 109202396009961,
+      "name": "Monarch Butterfly Torn Wings",
+      "creator": "Szeloba",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 285,
+      "sources": [
+        "KW:monarch #27"
+      ],
+      "keywords": [
+        "monarch"
+      ],
+      "best_rank": 27,
+      "breakout_score": 47.1,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/109202396009961"
+    },
+    {
+      "id": 16706019723,
+      "name": "Cyber Neon Armor (Left) Shoulder for HMR Blocky",
+      "creator": "gearspec",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 55,
+      "favs": 379,
+      "sources": [
+        "KW:armor #27"
+      ],
+      "keywords": [
+        "armor"
+      ],
+      "best_rank": 27,
+      "breakout_score": 46.8,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/16706019723"
+    },
+    {
       "id": 73448903242849,
       "name": "White Bandit Cloak",
       "creator": "Optic Enhancements",
@@ -5518,6 +4502,67 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/73448903242849"
+    },
+    {
+      "id": 90253021418108,
+      "name": "Christmas Reindeer Antlers Headband",
+      "creator": "NGC 1976",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 2073,
+      "sources": [
+        "KW:christmas #24"
+      ],
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 24,
+      "breakout_score": 46.5,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/90253021418108"
+    },
+    {
+      "id": 96608401319735,
+      "name": "Fractured Marble Greek Statue Eye Cover",
+      "creator": "Ambience Moon",
+      "assetType": 42,
+      "slot": "Face",
+      "floor": 95,
+      "price": 95,
+      "favs": 4111,
+      "sources": [
+        "Day Rising #19"
+      ],
+      "keywords": [],
+      "best_rank": 19,
+      "breakout_score": 46.5,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/96608401319735"
+    },
+    {
+      "id": 134679885946388,
+      "name": "All flesh rots, | quote cute goth emo vkei moe",
+      "creator": ".bunnie",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 55,
+      "favs": 1100,
+      "sources": [
+        "KW:goth #26"
+      ],
+      "keywords": [
+        "goth"
+      ],
+      "best_rank": 26,
+      "breakout_score": 46.3,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/134679885946388"
     },
     {
       "id": 105226437753080,
@@ -5562,46 +4607,46 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/128496431186460"
     },
     {
-      "id": 82271587901691,
-      "name": "🔥 Scary Face Dark Unnerving Creepy Image Cursed",
-      "creator": "da cursed UGC",
+      "id": 119173200378198,
+      "name": "Red Vampire Monarch Cape",
+      "creator": "Toebuu",
       "assetType": 46,
       "slot": "Back",
       "floor": 140,
-      "price": 115,
-      "favs": 4865,
+      "price": 140,
+      "favs": 37,
       "sources": [
-        "KW:cursed #17"
+        "KW:monarch #28"
       ],
       "keywords": [
-        "cursed"
+        "monarch"
       ],
-      "best_rank": 17,
+      "best_rank": 28,
       "breakout_score": 45.9,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/82271587901691"
+      "url": "https://www.roblox.com/catalog/119173200378198"
     },
     {
-      "id": 95778132742041,
-      "name": "Wings",
-      "creator": "mudspook",
-      "assetType": 44,
-      "slot": "Shoulder",
-      "floor": 55,
-      "price": 55,
-      "favs": 1362,
+      "id": 115876491367781,
+      "name": "[D1-VG-2202] ARES-CORE Main Armor - RED",
+      "creator": "Osu Corp",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 150,
+      "favs": 124,
       "sources": [
-        "KW:wings #26"
+        "KW:armor #28"
       ],
       "keywords": [
-        "wings"
+        "armor"
       ],
-      "best_rank": 26,
-      "breakout_score": 45.5,
+      "best_rank": 28,
+      "breakout_score": 45.6,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/95778132742041"
+      "url": "https://www.roblox.com/catalog/115876491367781"
     },
     {
       "id": 84429477016572,
@@ -5646,109 +4691,109 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/138819170432410"
     },
     {
-      "id": 87141953050611,
-      "name": "୨ ♡ ୧ cutie black belt choker",
-      "creator": "abusable",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 859,
-      "sources": [
-        "KW:choker #27"
-      ],
-      "keywords": [
-        "choker"
-      ],
-      "best_rank": 27,
-      "breakout_score": 45.3,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/87141953050611"
-    },
-    {
-      "id": 105371807065439,
-      "name": "⏳ Spiked Purple Horns",
-      "creator": "Prime UGC!",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 273,
-      "sources": [
-        "KW:horns #28"
-      ],
-      "keywords": [
-        "horns"
-      ],
-      "best_rank": 28,
-      "breakout_score": 45.2,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/105371807065439"
-    },
-    {
-      "id": 109202396009961,
-      "name": "Monarch Butterfly Torn Wings",
-      "creator": "Szeloba",
-      "assetType": 46,
-      "slot": "Back",
-      "floor": 140,
-      "price": 140,
-      "favs": 285,
-      "sources": [
-        "KW:monarch #28"
-      ],
-      "keywords": [
-        "monarch"
-      ],
-      "best_rank": 28,
-      "breakout_score": 45.1,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/109202396009961"
-    },
-    {
-      "id": 86489337406393,
-      "name": "German Military Visor Cap Devil's Field-Grey",
-      "creator": "ATP JazzzC",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 115,
-      "favs": 303,
-      "sources": [
-        "KW:visor #28"
-      ],
-      "keywords": [
-        "visor"
-      ],
-      "best_rank": 28,
-      "breakout_score": 45.1,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/86489337406393"
-    },
-    {
-      "id": 16706019723,
-      "name": "Cyber Neon Armor (Left) Shoulder for HMR Blocky",
-      "creator": "gearspec",
+      "id": 77118160859642,
+      "name": "youll never be pure | quote cute goth emo vkei moe",
+      "creator": ".bunnie",
       "assetType": 44,
       "slot": "Shoulder",
       "floor": 55,
       "price": 55,
-      "favs": 379,
+      "favs": 2476,
       "sources": [
-        "KW:armor #28"
+        "KW:goth #24"
       ],
       "keywords": [
-        "armor"
+        "goth"
       ],
-      "best_rank": 28,
-      "breakout_score": 44.8,
+      "best_rank": 24,
+      "breakout_score": 45.1,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/16706019723"
+      "url": "https://www.roblox.com/catalog/77118160859642"
+    },
+    {
+      "id": 92538521686806,
+      "name": "Earmuffs + Scarf White Fluffy Winter Christmas y2k",
+      "creator": "Gatas Only",
+      "assetType": 43,
+      "slot": "Neck",
+      "floor": 55,
+      "price": 55,
+      "favs": 4764,
+      "sources": [
+        "KW:y2k #18"
+      ],
+      "keywords": [
+        "y2k"
+      ],
+      "best_rank": 18,
+      "breakout_score": 45.0,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/92538521686806"
+    },
+    {
+      "id": 129442970600130,
+      "name": "Emo Gothic Y2K Glasses Chain Black",
+      "creator": "Only Emo Gothic",
+      "assetType": 42,
+      "slot": "Face",
+      "floor": 95,
+      "price": 95,
+      "favs": 6800,
+      "sources": [
+        "KW:y2k #10"
+      ],
+      "keywords": [
+        "y2k"
+      ],
+      "best_rank": 10,
+      "breakout_score": 44.8,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/129442970600130"
+    },
+    {
+      "id": 130401494378299,
+      "name": "born to feel helmet black",
+      "creator": "archiest",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 8275,
+      "sources": [
+        "KW:helmet #1"
+      ],
+      "keywords": [
+        "helmet"
+      ],
+      "best_rank": 1,
+      "breakout_score": 44.8,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/130401494378299"
+    },
+    {
+      "id": 98457274089411,
+      "name": "Jeffy's Skate Helmet",
+      "creator": "Official SML Studios",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 426,
+      "sources": [
+        "KW:helmet #28"
+      ],
+      "keywords": [
+        "helmet"
+      ],
+      "best_rank": 28,
+      "breakout_score": 44.7,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/98457274089411"
     },
     {
       "id": 75390563404923,
@@ -5774,25 +4819,68 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/75390563404923"
     },
     {
-      "id": 16753736095,
-      "name": "Blade of Mimicry",
-      "creator": "Eresh's Workshop",
+      "id": 82271587901691,
+      "name": "🔥 Scary Face Dark Unnerving Creepy Image Cursed",
+      "creator": "da cursed UGC",
       "assetType": 46,
       "slot": "Back",
       "floor": 140,
-      "price": 140,
-      "favs": 1098,
+      "price": 115,
+      "favs": 4866,
       "sources": [
-        "KW:blade #27"
+        "KW:cursed #18"
       ],
       "keywords": [
-        "blade"
+        "cursed"
       ],
-      "best_rank": 27,
-      "breakout_score": 44.5,
+      "best_rank": 18,
+      "breakout_score": 44.6,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/16753736095"
+      "url": "https://www.roblox.com/catalog/82271587901691"
+    },
+    {
+      "id": 111044849661542,
+      "name": "Fast Military Helmet",
+      "creator": "DuoBloom",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 8191,
+      "sources": [
+        "KW:helmet #2"
+      ],
+      "keywords": [
+        "helmet"
+      ],
+      "best_rank": 2,
+      "breakout_score": 44.5,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/111044849661542"
+    },
+    {
+      "id": 126569274661003,
+      "name": "Christmas Santa Hat",
+      "creator": "Santii UGC",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 3148,
+      "sources": [
+        "Day Best #46",
+        "KW:christmas #23"
+      ],
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 23,
+      "breakout_score": 44.2,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/126569274661003"
     },
     {
       "id": 77091195139508,
@@ -5823,9 +4911,9 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Waist",
       "floor": 65,
       "price": 65,
-      "favs": 7679,
+      "favs": 7681,
       "sources": [
-        "Day Best #8",
+        "Day Best #9",
         "Week Best #6"
       ],
       "keywords": [],
@@ -5836,25 +4924,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/93448468211775"
     },
     {
-      "id": 121633519496631,
-      "name": "black plaid emo horn beret w pins",
-      "creator": "westwood archive",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 178,
+      "id": 118999287920689,
+      "name": "Metallic Y2k grunge Aluminum Side Chains",
+      "creator": "Mythical Slayys",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 1372,
       "sources": [
-        "KW:horns #29"
+        "KW:y2k #27"
       ],
       "keywords": [
-        "horns"
+        "y2k"
       ],
-      "best_rank": 29,
-      "breakout_score": 43.5,
+      "best_rank": 27,
+      "breakout_score": 43.6,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/121633519496631"
+      "url": "https://www.roblox.com/catalog/118999287920689"
     },
     {
       "id": 84890363630462,
@@ -5878,25 +4966,25 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/84890363630462"
     },
     {
-      "id": 87833918004887,
-      "name": "Galaxy Wings",
-      "creator": "CartoonyUGC",
-      "assetType": 46,
-      "slot": "Back",
-      "floor": 140,
-      "price": 140,
-      "favs": 866,
+      "id": 77916990743574,
+      "name": "Christmas",
+      "creator": "JON. XMAS",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 360,
       "sources": [
-        "KW:wings #28"
+        "KW:christmas #29"
       ],
       "keywords": [
-        "wings"
+        "christmas"
       ],
-      "best_rank": 28,
-      "breakout_score": 43.3,
+      "best_rank": 29,
+      "breakout_score": 42.9,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/87833918004887"
+      "url": "https://www.roblox.com/catalog/77916990743574"
     },
     {
       "id": 16705998872,
@@ -5920,27 +5008,6 @@ window.__DWANCHI_TRENDS__ = {
       "url": "https://www.roblox.com/catalog/16705998872"
     },
     {
-      "id": 116475119442061,
-      "name": "Glitched Polygon White Mask Black Eyes",
-      "creator": "Chaotiq",
-      "assetType": 8,
-      "slot": "Hat",
-      "floor": 95,
-      "price": 95,
-      "favs": 4285,
-      "sources": [
-        "KW:mask #21"
-      ],
-      "keywords": [
-        "mask"
-      ],
-      "best_rank": 21,
-      "breakout_score": 42.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/116475119442061"
-    },
-    {
       "id": 2226791400,
       "name": "Wooly Winter Wizard Hat",
       "creator": "Roblox",
@@ -5948,37 +5015,39 @@ window.__DWANCHI_TRENDS__ = {
       "slot": "Hat",
       "floor": 95,
       "price": 200,
-      "favs": 7380,
+      "favs": 7409,
       "sources": [
         "Day Rising #9"
       ],
       "keywords": [],
       "best_rank": 9,
-      "breakout_score": 42.7,
+      "breakout_score": 42.5,
       "low_fav_breakout": false,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/2226791400"
     },
     {
-      "id": 94331025881670,
-      "name": "Cartoony Foltyn Family Chain Black",
-      "creator": "Cartoony Ugcs!",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 1203,
+      "id": 117055325745356,
+      "name": "Ethereal Christmas Fairy Fawn Antlers w/ Jewels",
+      "creator": "KHANE!",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 2763,
       "sources": [
-        "KW:chains #28"
+        "Day Best #69",
+        "Day Rising #43",
+        "KW:christmas #25"
       ],
       "keywords": [
-        "chains"
+        "christmas"
       ],
-      "best_rank": 28,
-      "breakout_score": 42.3,
+      "best_rank": 25,
+      "breakout_score": 42.4,
       "low_fav_breakout": true,
       "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/94331025881670"
+      "url": "https://www.roblox.com/catalog/117055325745356"
     },
     {
       "id": 88497543202453,
@@ -6000,6 +5069,920 @@ window.__DWANCHI_TRENDS__ = {
       "low_fav_breakout": true,
       "copyright_clean_title": false,
       "url": "https://www.roblox.com/catalog/88497543202453"
+    },
+    {
+      "id": 89639170668012,
+      "name": "Miami Vice Palms Football Helmet Visor",
+      "creator": "Sovereign Sportswear",
+      "assetType": 42,
+      "slot": "Face",
+      "floor": 95,
+      "price": 95,
+      "favs": 99,
+      "sources": [
+        "KW:helmet #30"
+      ],
+      "keywords": [
+        "helmet"
+      ],
+      "best_rank": 30,
+      "breakout_score": 41.7,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/89639170668012"
+    },
+    {
+      "id": 99102146024618,
+      "name": "black emo goth mini skirt w studs chains 3.0",
+      "creator": "BITTERCHORD",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 824,
+      "sources": [
+        "KW:goth #29"
+      ],
+      "keywords": [
+        "goth"
+      ],
+      "best_rank": 29,
+      "breakout_score": 41.6,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/99102146024618"
+    },
+    {
+      "id": 109988927668667,
+      "name": "Black Sigil Vintage Esoteric Neck Scarf",
+      "creator": "lawofattraction",
+      "assetType": 43,
+      "slot": "Neck",
+      "floor": 55,
+      "price": 55,
+      "favs": 7233,
+      "sources": [
+        "KW:sigil #11"
+      ],
+      "keywords": [
+        "sigil"
+      ],
+      "best_rank": 11,
+      "breakout_score": 41.4,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/109988927668667"
+    },
+    {
+      "id": 76609951909769,
+      "name": "bunnyman cursed creepy sinister horror weird",
+      "creator": "lostmedia",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 90,
+      "favs": 8300,
+      "sources": [
+        "KW:cursed #5"
+      ],
+      "keywords": [
+        "cursed"
+      ],
+      "best_rank": 5,
+      "breakout_score": 41.1,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/76609951909769"
+    },
+    {
+      "id": 113936189730604,
+      "name": "Black Tactical Neck Gaiter Face Mask",
+      "creator": "Prysm UGC",
+      "assetType": 43,
+      "slot": "Neck",
+      "floor": 55,
+      "price": 55,
+      "favs": 5420,
+      "sources": [
+        "Day Best #19",
+        "Week Best #22"
+      ],
+      "keywords": [],
+      "best_rank": 19,
+      "breakout_score": 40.9,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/113936189730604"
+    },
+    {
+      "id": 83389659801057,
+      "name": "Brown Fur Fluffy Winter Earmuffs",
+      "creator": "qliz",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 3225,
+      "sources": [
+        "Day Best #45",
+        "Week Best #25"
+      ],
+      "keywords": [],
+      "best_rank": 25,
+      "breakout_score": 40.8,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/83389659801057"
+    },
+    {
+      "id": 117409502200725,
+      "name": "Black Classic Wizard Cloak",
+      "creator": "A Friendly Shop",
+      "assetType": 45,
+      "slot": "Front",
+      "floor": 55,
+      "price": 55,
+      "favs": 1715,
+      "sources": [
+        "KW:cloak #28"
+      ],
+      "keywords": [
+        "cloak"
+      ],
+      "best_rank": 28,
+      "breakout_score": 40.7,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/117409502200725"
+    },
+    {
+      "id": 11515337829,
+      "name": "Left SCP Shoulder Armor",
+      "creator": "Foxtrot Arms",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 55,
+      "favs": 8274,
+      "sources": [
+        "KW:armor #7"
+      ],
+      "keywords": [
+        "armor"
+      ],
+      "best_rank": 7,
+      "breakout_score": 39.5,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/11515337829"
+    },
+    {
+      "id": 140362273975016,
+      "name": "Y2k Jeweled Cross Necklaces 3.0 (Gold)",
+      "creator": "#JEWELED",
+      "assetType": 43,
+      "slot": "Neck",
+      "floor": 55,
+      "price": 55,
+      "favs": 5479,
+      "sources": [
+        "KW:y2k #20"
+      ],
+      "keywords": [
+        "y2k"
+      ],
+      "best_rank": 20,
+      "breakout_score": 39.4,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/140362273975016"
+    },
+    {
+      "id": 108094702145756,
+      "name": "Spiked Goth Hanging Chain Skull",
+      "creator": "Luxx's Vault",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 6364,
+      "sources": [
+        "KW:goth #17"
+      ],
+      "keywords": [
+        "goth"
+      ],
+      "best_rank": 17,
+      "breakout_score": 39.1,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/108094702145756"
+    },
+    {
+      "id": 120352474414267,
+      "name": "Regal Vampiric Gaian Cloak",
+      "creator": "G A i A",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 1075,
+      "sources": [
+        "KW:cloak #30"
+      ],
+      "keywords": [
+        "cloak"
+      ],
+      "best_rank": 30,
+      "breakout_score": 39.0,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/120352474414267"
+    },
+    {
+      "id": 109241534086849,
+      "name": "Christmas",
+      "creator": "mudxmas",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 3348,
+      "sources": [
+        "KW:christmas #26"
+      ],
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 26,
+      "breakout_score": 38.8,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/109241534086849"
+    },
+    {
+      "id": 129375656926682,
+      "name": "Ikari Saint Divine Cursed Stitches",
+      "creator": "INWHITE",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 4260,
+      "sources": [
+        "KW:cursed #24"
+      ],
+      "keywords": [
+        "cursed"
+      ],
+      "best_rank": 24,
+      "breakout_score": 38.7,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/129375656926682"
+    },
+    {
+      "id": 15176373664,
+      "name": "Green DOOM Cloak",
+      "creator": "Wabbit UGC",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 3960,
+      "sources": [
+        "KW:cloak #25"
+      ],
+      "keywords": [
+        "cloak"
+      ],
+      "best_rank": 25,
+      "breakout_score": 38.3,
+      "low_fav_breakout": true,
+      "copyright_clean_title": false,
+      "url": "https://www.roblox.com/catalog/15176373664"
+    },
+    {
+      "id": 129052421261266,
+      "name": "Shoulder TV Armor (Blocky) - Skibidi Toilet",
+      "creator": "Skibidi x INVIZ",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 55,
+      "favs": 1358,
+      "sources": [
+        "KW:armor #30"
+      ],
+      "keywords": [
+        "armor"
+      ],
+      "best_rank": 30,
+      "breakout_score": 38.2,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/129052421261266"
+    },
+    {
+      "id": 78708503573594,
+      "name": "Christmas Santa Bag",
+      "creator": "SANTA CLAUS CHRISTMAS",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 55,
+      "favs": 1623,
+      "sources": [
+        "KW:christmas #30"
+      ],
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 30,
+      "breakout_score": 37.5,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/78708503573594"
+    },
+    {
+      "id": 125203130432373,
+      "name": "Christmas",
+      "creator": "guh roupinhas model",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 3269,
+      "sources": [
+        "Day Rising #27"
+      ],
+      "keywords": [],
+      "best_rank": 27,
+      "breakout_score": 37.5,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/125203130432373"
+    },
+    {
+      "id": 17812905231,
+      "name": "Y2k Retro Personality Headphones Silver & Black",
+      "creator": "Tycoon Company",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 2380,
+      "sources": [
+        "KW:y2k #29"
+      ],
+      "keywords": [
+        "y2k"
+      ],
+      "best_rank": 29,
+      "breakout_score": 37.0,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/17812905231"
+    },
+    {
+      "id": 117062582557294,
+      "name": "🍀Astronaut Cat Helmet(Frutiger Aero Eco)",
+      "creator": "LILY & LIFFY",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 2505,
+      "sources": [
+        "KW:helmet #29"
+      ],
+      "keywords": [
+        "helmet"
+      ],
+      "best_rank": 29,
+      "breakout_score": 36.7,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/117062582557294"
+    },
+    {
+      "id": 77114547635728,
+      "name": "Christmas Noob Face 4",
+      "creator": "Kitzyy.a",
+      "assetType": 42,
+      "slot": "Face",
+      "floor": 95,
+      "price": 90,
+      "favs": 5653,
+      "sources": [
+        "KW:christmas #22"
+      ],
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 22,
+      "breakout_score": 36.1,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/77114547635728"
+    },
+    {
+      "id": 117586346317406,
+      "name": "cozy cute winter fluffy deer fawn flowy dress",
+      "creator": "yzia",
+      "assetType": 45,
+      "slot": "Front",
+      "floor": 55,
+      "price": 55,
+      "favs": 8109,
+      "sources": [
+        "Day Best #27",
+        "Week Best #12",
+        "Day Rising #35"
+      ],
+      "keywords": [],
+      "best_rank": 12,
+      "breakout_score": 35.8,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/117586346317406"
+    },
+    {
+      "id": 138756775389495,
+      "name": "Ebony Waist  Armor",
+      "creator": "Noopster UGC",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 5501,
+      "sources": [
+        "KW:armor #23"
+      ],
+      "keywords": [
+        "armor"
+      ],
+      "best_rank": 23,
+      "breakout_score": 35.5,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/138756775389495"
+    },
+    {
+      "id": 121602964174680,
+      "name": "Count Fuggula Cursed Waist Doll",
+      "creator": "iseder",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 6704,
+      "sources": [
+        "KW:cursed #19"
+      ],
+      "keywords": [
+        "cursed"
+      ],
+      "best_rank": 19,
+      "breakout_score": 35.4,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/121602964174680"
+    },
+    {
+      "id": 102957566817218,
+      "name": "Kratos Sword Blades of Athena",
+      "creator": "Relentless Ugc",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 55,
+      "favs": 3003,
+      "sources": [
+        "KW:blade #29"
+      ],
+      "keywords": [
+        "blade"
+      ],
+      "best_rank": 29,
+      "breakout_score": 35.2,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/102957566817218"
+    },
+    {
+      "id": 17514082488,
+      "name": "✅ Horns",
+      "creator": "Glowz UGC",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 2456,
+      "sources": [
+        "Week Best #30"
+      ],
+      "keywords": [],
+      "best_rank": 30,
+      "breakout_score": 35.1,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/17514082488"
+    },
+    {
+      "id": 83343729017576,
+      "name": "Ruby of Domino Crown",
+      "creator": "ScriptingZek",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 888888888,
+      "favs": 425,
+      "sources": [
+        "Day Rising #33"
+      ],
+      "keywords": [],
+      "best_rank": 33,
+      "breakout_score": 35.0,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/83343729017576"
+    },
+    {
+      "id": 74799221410739,
+      "name": "Cartoony Red AURA Necklace Dragons Swords Combo",
+      "creator": "whoseqliz",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 55,
+      "favs": 4119,
+      "sources": [
+        "KW:aura #27"
+      ],
+      "keywords": [
+        "aura"
+      ],
+      "best_rank": 27,
+      "breakout_score": 34.8,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/74799221410739"
+    },
+    {
+      "id": 90675217917596,
+      "name": "[Red] Aura of Ascended Blades",
+      "creator": "Jin's UGC",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 9071,
+      "sources": [
+        "KW:blade #7"
+      ],
+      "keywords": [
+        "blade"
+      ],
+      "best_rank": 7,
+      "breakout_score": 34.8,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/90675217917596"
+    },
+    {
+      "id": 77477751048234,
+      "name": "Emerald Blade of the Blushing Grove",
+      "creator": "Roblox",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 2777,
+      "sources": [
+        "KW:blade #30"
+      ],
+      "keywords": [
+        "blade"
+      ],
+      "best_rank": 30,
+      "breakout_score": 34.2,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/77477751048234"
+    },
+    {
+      "id": 95185642728267,
+      "name": "Earmuffs + Scarf Brown Fluffy Winter Christmas y2k",
+      "creator": "Gatas Only",
+      "assetType": 43,
+      "slot": "Neck",
+      "floor": 55,
+      "price": 55,
+      "favs": 7045,
+      "sources": [
+        "KW:y2k #19"
+      ],
+      "keywords": [
+        "y2k"
+      ],
+      "best_rank": 19,
+      "breakout_score": 33.9,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/95185642728267"
+    },
+    {
+      "id": 75458104318292,
+      "name": "Goth Lolita White Umbrella - Black Lace",
+      "creator": "Iron Keep",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 4497,
+      "sources": [
+        "KW:goth #27"
+      ],
+      "keywords": [
+        "goth"
+      ],
+      "best_rank": 27,
+      "breakout_score": 33.6,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/75458104318292"
+    },
+    {
+      "id": 6103682625,
+      "name": "Corporate Recon Armor",
+      "creator": "GuestCapone",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 5849,
+      "sources": [
+        "KW:armor #24"
+      ],
+      "keywords": [
+        "armor"
+      ],
+      "best_rank": 24,
+      "breakout_score": 32.9,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/6103682625"
+    },
+    {
+      "id": 112392352424467,
+      "name": "Red Demon Four Eyed Curse",
+      "creator": "TRUEgligreez",
+      "assetType": 42,
+      "slot": "Face",
+      "floor": 95,
+      "price": 90,
+      "favs": 6713,
+      "sources": [
+        "KW:cursed #22"
+      ],
+      "keywords": [
+        "cursed"
+      ],
+      "best_rank": 22,
+      "breakout_score": 32.0,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/112392352424467"
+    },
+    {
+      "id": 138101748130727,
+      "name": ".ᘛ † ᘚ. black unicorn plushie┆vkei emo goth moe┆",
+      "creator": "BITTERCHORD",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 145,
+      "favs": 8982,
+      "sources": [
+        "KW:goth #12"
+      ],
+      "keywords": [
+        "goth"
+      ],
+      "best_rank": 12,
+      "breakout_score": 31.3,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/138101748130727"
+    },
+    {
+      "id": 70643032816349,
+      "name": "-4 Degrees Celsius (snow)",
+      "creator": "In My Pocket",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 4348,
+      "sources": [
+        "Day Rising #29"
+      ],
+      "keywords": [],
+      "best_rank": 29,
+      "breakout_score": 31.2,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/70643032816349"
+    },
+    {
+      "id": 83040254004991,
+      "name": "Curse Mark",
+      "creator": "Late UGC",
+      "assetType": 42,
+      "slot": "Face",
+      "floor": 95,
+      "price": 95,
+      "favs": 10020,
+      "sources": [
+        "KW:cursed #4"
+      ],
+      "keywords": [
+        "cursed"
+      ],
+      "best_rank": 4,
+      "breakout_score": 31.2,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/83040254004991"
+    },
+    {
+      "id": 12420519976,
+      "name": "Capellion Neck Armor Black",
+      "creator": "survival_steve",
+      "assetType": 43,
+      "slot": "Neck",
+      "floor": 55,
+      "price": 55,
+      "favs": 9584,
+      "sources": [
+        "KW:armor #8"
+      ],
+      "keywords": [
+        "armor"
+      ],
+      "best_rank": 8,
+      "breakout_score": 31.1,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/12420519976"
+    },
+    {
+      "id": 99660741162664,
+      "name": "Christmas Hat",
+      "creator": "50k Christmas",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 8880,
+      "sources": [
+        "Day Best #72",
+        "Week Best #39",
+        "KW:christmas #13"
+      ],
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 13,
+      "breakout_score": 31.0,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/99660741162664"
+    },
+    {
+      "id": 120298579778944,
+      "name": "Goth Lolita Black Umbrella",
+      "creator": "Iron Keep",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 4918,
+      "sources": [
+        "KW:goth #28"
+      ],
+      "keywords": [
+        "goth"
+      ],
+      "best_rank": 28,
+      "breakout_score": 30.9,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/120298579778944"
+    },
+    {
+      "id": 135548286162919,
+      "name": "Silver Gaian Esoteric Chained Skein Blade",
+      "creator": "G A i A",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 9493,
+      "sources": [
+        "KW:blade #10"
+      ],
+      "keywords": [
+        "blade"
+      ],
+      "best_rank": 10,
+      "breakout_score": 30.1,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/135548286162919"
+    },
+    {
+      "id": 77255394336471,
+      "name": "Cursed From Monday Shadowed Face",
+      "creator": "ArtiSocial",
+      "assetType": 42,
+      "slot": "Face",
+      "floor": 95,
+      "price": 90,
+      "favs": 7044,
+      "sources": [
+        "KW:cursed #23"
+      ],
+      "keywords": [
+        "cursed"
+      ],
+      "best_rank": 23,
+      "breakout_score": 29.7,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/77255394336471"
+    },
+    {
+      "id": 100027815385424,
+      "name": "Cute Kawaii Pink Mimi Bunny Mezzo Piano Beret",
+      "creator": "tyny",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 5007,
+      "sources": [
+        "Day Rising #30"
+      ],
+      "keywords": [],
+      "best_rank": 30,
+      "breakout_score": 28.0,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/100027815385424"
+    },
+    {
+      "id": 76274038305447,
+      "name": "Christian Goth Victorian Ruffled Skirt 3.0",
+      "creator": "SOULHEAVEN",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 5127,
+      "sources": [
+        "KW:goth #30"
+      ],
+      "keywords": [
+        "goth"
+      ],
+      "best_rank": 30,
+      "breakout_score": 27.6,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/76274038305447"
+    },
+    {
+      "id": 118454401675187,
+      "name": "White Goth Cat Veil",
+      "creator": "Peachieb's Basics",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 7291,
+      "sources": [
+        "KW:goth #25"
+      ],
+      "keywords": [
+        "goth"
+      ],
+      "best_rank": 25,
+      "breakout_score": 26.7,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/118454401675187"
     }
   ]
 };

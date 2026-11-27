@@ -346,15 +346,15 @@ def main() -> None:
         "group_id": "35743490",
         "drops": [
             {
-                "name": "Emerald Sovereign — Cycles GPU Raytraced PBR Armor Suit",
-                "status": "Cycles-Baked, Group-Approved & Live in Studio (Version 21)",
+                "name": "Emerald Sovereign — Claude Opus/Sonnet + Cycles GPU Armor Suit",
+                "status": "Claude-Sculpted, Cycles-Baked, Group-Approved & Live in Studio (Version 22)",
                 "set_price_floor": 365,
                 "items": [
-                    {"id": "01", "title": "Emerald Sovereign Draped Hooded Cowl",    "slot": "Hat",      "floor": 95, "tris": 1312, "mesh_id": "121314550705304"},
-                    {"id": "02", "title": "Emerald Sovereign Forged Steel Mask",     "slot": "Face",     "floor": 95, "tris": 1516, "mesh_id": "91849169661516"},
-                    {"id": "03", "title": "Emerald Sovereign Quilted Vest Tunic",    "slot": "Front",    "floor": 55, "tris": 2168, "mesh_id": "108266186966679"},
-                    {"id": "04", "title": "Emerald Sovereign Gauntlets and Cape",    "slot": "Shoulder", "floor": 55, "tris": 3800, "mesh_id": "76426094298902"},
-                    {"id": "05", "title": "Emerald Sovereign Belt and Shin Greaves", "slot": "Waist",    "floor": 65, "tris": 2052, "mesh_id": "93567442613669"},
+                    {"id": "01", "title": "Emerald Sovereign Draped Hooded Cowl",    "slot": "Hat",      "floor": 95, "tris": 1584, "mesh_id": "106130762823824"},
+                    {"id": "02", "title": "Emerald Sovereign Forged Steel Mask",     "slot": "Face",     "floor": 95, "tris": 2846, "mesh_id": "115603793079381"},
+                    {"id": "03", "title": "Emerald Sovereign Quilted Vest Tunic",    "slot": "Front",    "floor": 55, "tris": 2364, "mesh_id": "87523510233818"},
+                    {"id": "04", "title": "Emerald Sovereign Gauntlets and Cape",    "slot": "Shoulder", "floor": 55, "tris": 3224, "mesh_id": "135748217311827"},
+                    {"id": "05", "title": "Emerald Sovereign Belt and Shin Greaves", "slot": "Waist",    "floor": 65, "tris": 2600, "mesh_id": "118815979162699"},
                 ],
             },
         ],
