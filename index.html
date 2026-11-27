@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dwanchi Inc. — Roblox UGC &amp; Cross-Media Trend Portal</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo-dot"></div>
+      <div>
+        <h1>DWANCHI INC. <span>UGC &amp; TREND RADAR</span></h1>
+        <p class="subtitle">Daily Roblox Catalog Breakout Scanner + Beyond-Roblox Movie &amp; Anime Hype Forecasting</p>
+      </div>
+    </div>
+    <div class="status-group">
+      <span class="pill group-pill">GroupId: 35743490</span>
+      <span class="pill" id="last-updated">Loading data...</span>
+      <span class="pill accent-pill" id="indexed-count">0 items indexed</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Section 1: What To Build Today & Drop #2 Selected Genre -->
+    <section class="card hero-card">
+      <div class="section-head">
+        <div>
+          <h2>What to Build Today — Drop #2 Blueprint: <span class="emerald-text">Iron Sovereign &amp; Cursed Monarch</span></h2>
+          <p class="muted">Dual-wave strategy timed 21 days ahead of <strong>Avengers: Doomsday (Dec 18, 2026)</strong> while capturing year-round <strong>Solo Leveling / JJK / Demon Slayer Battlegrounds</strong> buyers — 100% original procedural armor geometry with zero IP risk.</p>
+        </div>
+        <div class="badge-stack">
+          <span class="badge green">Target Live: By Dec 8, 2026</span>
+          <span class="badge cyan">Wave A: 4 Colorways (5 Slots)</span>
+        </div>
+      </div>
+      <div id="opportunities-grid" class="opp-grid"></div>
+    </section>
+
+    <!-- Section 2: Cross-Media Hype Radar (Beyond Roblox) -->
+    <section class="card">
+      <div class="section-head">
+        <div>
+          <h2>Beyond-Roblox Cultural Hype Radar (30–120 Day Forecast)</h2>
+          <p class="muted">Upcoming theatrical films, seasonal Robux waves, and anime arcs mapped to Blender 5.3 hard-surface archetypes and banned trademark guardrails.</p>
+        </div>
+      </div>
+      <div id="hype-radar-grid" class="radar-grid"></div>
+    </section>
+
+    <!-- Section 3: Slot Openness Arbitrage & Tracked Keyword Clusters -->
+    <section class="two-col">
+      <div class="card">
+        <div class="section-head">
+          <h2>Slot Openness &amp; Price Floor Arbitrage</h2>
+          <span class="muted small">Low favs inside Top Chart = Easy breakout</span>
+        </div>
+        <div class="table-wrap">
+          <table id="slot-table">
+            <thead>
+              <tr>
+                <th>Slot</th>
+                <th>Floor</th>
+                <th>Top Hits</th>
+                <th>&lt;5k Fav Breakouts</th>
+                <th>Lowest Favs</th>
+                <th>Openness</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="section-head">
+          <h2>18 Niche Keyword Radar (Weekly Best Sellers)</h2>
+          <span class="muted small">Click any keyword to filter Catalog Explorer</span>
+        </div>
+        <div id="keyword-chips" class="chip-grid"></div>
+      </div>
+    </section>
+
+    <!-- Section 4: Live Roblox Catalog Breakout Explorer -->
+    <section class="card">
+      <div class="section-head wrap-head">
+        <div>
+          <h2>Live Roblox Catalog Breakout Explorer</h2>
+          <p class="muted">Ranked by Low-Favorite Breakout Score (high chart rank with under 15,000 lifetime favorites).</p>
+        </div>
+        <div class="controls">
+          <input type="search" id="search-input" placeholder="Search item, creator, keyword..." />
+          <select id="slot-filter">
+            <option value="ALL">All Slots</option>
+            <option value="Shoulder">Shoulder (55 R$)</option>
+            <option value="Front">Front (55 R$)</option>
+            <option value="Neck">Neck (55 R$)</option>
+            <option value="Waist">Waist (65 R$)</option>
+            <option value="Face">Face (95 R$)</option>
+            <option value="Hat">Hat (95 R$)</option>
+            <option value="Back">Back (140 R$)</option>
+          </select>
+          <select id="sort-select">
+            <option value="breakout">Sort: Breakout Score</option>
+            <option value="lowest_favs">Sort: Lowest Favorites First</option>
+            <option value="highest_favs">Sort: Highest Favorites First</option>
+            <option value="rank">Sort: Best Chart Rank</option>
+          </select>
+          <label class="checkbox-pill">
+            <input type="checkbox" id="low-fav-only" />
+            <span>Only &lt;5,000 Favs</span>
+          </label>
+        </div>
+      </div>
+      <div class="table-wrap scroll-table">
+        <table id="items-table">
+          <thead>
+            <tr>
+              <th>Breakout</th>
+              <th>Item Name</th>
+              <th>Slot &amp; Price</th>
+              <th>Favorites</th>
+              <th>Chart / Keyword Sources</th>
+              <th>IP Check</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Section 5: Interactive Copyright & DMCA Shield + Portfolio -->
+    <section class="two-col">
+      <div class="card">
+        <div class="section-head">
+          <h2>Copyright &amp; DMCA Title/Description Shield</h2>
+          <span class="muted small">Checks 75+ Marvel, DC, Anime &amp; Roblox IP blocklist triggers</span>
+        </div>
+        <textarea id="shield-input" rows="4" placeholder="Paste any planned UGC title or description here to test before uploading..."></textarea>
+        <div id="shield-result" class="shield-box safe">Type or paste a title above — checks run live as you type.</div>
+      </div>
+
+      <div class="card">
+        <div class="section-head">
+          <h2>Dwanchi Inc. Drop Portfolio Tracker</h2>
+          <span class="muted small">GroupId: 35743490</span>
+        </div>
+        <div id="portfolio-container"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span>Updated automatically every day at 06:00 UTC via GitHub Actions • Dwanchi Inc. (`35743490`)</span>
+  </footer>
+
+  <script src="data/fallback.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
