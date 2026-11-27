@@ -346,15 +346,15 @@ def main() -> None:
         "group_id": "35743490",
         "drops": [
             {
-                "name": "Sovereign Suit — High-Detail 5-Piece Armored Sovereign Collection",
+                "name": "Emerald Sovereign — Single Edition Realistic A-Frame Armor Suit",
                 "status": "Built, Group-Approved & Live in Studio (Ready to Submit)",
                 "set_price_floor": 365,
                 "items": [
-                    {"id": "01", "title": "Emerald Sovereign Draped Hooded Cowl",  "slot": "Hat",      "floor": 95, "tris": 2416, "mesh_id": "131781595592564"},
-                    {"id": "02", "title": "Emerald Sovereign Forged Steel Mask",   "slot": "Face",     "floor": 95, "tris": 2948, "mesh_id": "113518733575592"},
-                    {"id": "03", "title": "Emerald Sovereign Steel Cuirass Tunic", "slot": "Front",    "floor": 55, "tris": 3928, "mesh_id": "114561623073510"},
-                    {"id": "04", "title": "Emerald Sovereign Cape and Pauldrons",  "slot": "Shoulder", "floor": 55, "tris": 3476, "mesh_id": "108478606535256"},
-                    {"id": "05", "title": "Emerald Sovereign Belt and War Kilt",   "slot": "Waist",    "floor": 65, "tris": 2756, "mesh_id": "111053966439922"},
+                    {"id": "01", "title": "Emerald Sovereign Draped Hooded Cowl",  "slot": "Hat",      "floor": 95, "tris": 2328, "mesh_id": "140244118839781"},
+                    {"id": "02", "title": "Emerald Sovereign Forged Steel Mask",   "slot": "Face",     "floor": 95, "tris": 2932, "mesh_id": "90102382773432"},
+                    {"id": "03", "title": "Emerald Sovereign Steel Cuirass Tunic", "slot": "Front",    "floor": 55, "tris": 2756, "mesh_id": "79615565020796"},
+                    {"id": "04", "title": "Emerald Sovereign Cape and Pauldrons",  "slot": "Shoulder", "floor": 55, "tris": 2848, "mesh_id": "104268830674378"},
+                    {"id": "05", "title": "Emerald Sovereign Belt and War Kilt",   "slot": "Waist",    "floor": 65, "tris": 2696, "mesh_id": "88340914829432"},
                 ],
             },
         ],
