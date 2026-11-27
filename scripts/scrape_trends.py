@@ -346,27 +346,15 @@ def main() -> None:
         "group_id": "35743490",
         "drops": [
             {
-                "name": "Drop #1 — Astral Cyber-Sigil Collection (Winter / Evergreen Y2K)",
-                "status": "Built, Group-Approved & Live in Studio (Ready to Submit)",
-                "set_price_floor": 355,
-                "items": [
-                    {"id": "01", "title": "Astral Silver Star Cyber Sigil Crown",               "slot": "Hat",      "floor": 95, "tris": 2658, "mesh_id": "103838284706892"},
-                    {"id": "02", "title": "Astral Star-Sigil Festive Body Lights & Chains",    "slot": "Front",    "floor": 55, "tris": 3552, "mesh_id": "103827736104678"},
-                    {"id": "03", "title": "Astral Silver Y2K Star-Sigil Shield Shades",        "slot": "Face",     "floor": 95, "tris": 956,  "mesh_id": "110121450745659"},
-                    {"id": "04", "title": "Astral Silver Cyber-Sigil Shard Wings & Halo Aura", "slot": "Shoulder", "floor": 55, "tris": 1720, "mesh_id": "118477765543098"},
-                    {"id": "05", "title": "Astral Silver Spiked Cyber-Sigil Choker & Chains",  "slot": "Neck",     "floor": 55, "tris": 1412, "mesh_id": "130884903198904"},
-                ],
-            },
-            {
-                "name": "Drop #2 — Iron Sovereign & Cursed Monarch (Dec 18 Film + Anime Battlegrounds)",
+                "name": "Sovereign Suit — Realistic 5-Piece Armored Sovereign Collection",
                 "status": "Built, Group-Approved & Live in Studio (Ready to Submit)",
                 "set_price_floor": 365,
                 "items": [
-                    {"id": "06", "title": "Emerald Arcane Sovereign Horned Crown Helm",     "slot": "Hat",      "floor": 95, "tris": 480,  "mesh_id": "107697578396040"},
-                    {"id": "07", "title": "Emerald Arcane Sovereign Iron Battle Visage",    "slot": "Face",     "floor": 95, "tris": 208,  "mesh_id": "91629556862452"},
-                    {"id": "08", "title": "Emerald Arcane Monarch Spiked Pauldrons Aura",   "slot": "Shoulder", "floor": 55, "tris": 1368, "mesh_id": "93765678870444"},
-                    {"id": "09", "title": "Emerald Arcane Spiked Sovereign Gorget Collar",  "slot": "Neck",     "floor": 55, "tris": 576,  "mesh_id": "114069993091271"},
-                    {"id": "10", "title": "Emerald Arcane Sovereign Rune Waist Blades",     "slot": "Waist",    "floor": 65, "tris": 2400, "mesh_id": "107619361410208"},
+                    {"id": "01", "title": "Emerald Sovereign Draped Hooded Cowl",  "slot": "Hat",      "floor": 95, "tris": 992,  "mesh_id": "76594885114853"},
+                    {"id": "02", "title": "Emerald Sovereign Forged Steel Mask",   "slot": "Face",     "floor": 95, "tris": 1404, "mesh_id": "117291622125615"},
+                    {"id": "03", "title": "Emerald Sovereign Steel Cuirass Tunic", "slot": "Front",    "floor": 55, "tris": 1704, "mesh_id": "137075910872849"},
+                    {"id": "04", "title": "Emerald Sovereign Cape and Pauldrons",  "slot": "Shoulder", "floor": 55, "tris": 1092, "mesh_id": "95217035289821"},
+                    {"id": "05", "title": "Emerald Sovereign Belt and War Kilt",   "slot": "Waist",    "floor": 65, "tris": 1220, "mesh_id": "121166809125062"},
                 ],
             },
         ],

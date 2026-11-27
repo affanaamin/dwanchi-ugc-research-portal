@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-27 06:34 UTC",
-  "total_items_indexed": 583,
+  "scraped_at": "2026-11-27 06:44 UTC",
+  "total_items_indexed": 560,
   "slot_summary": [
     {
       "assetType": 44,
@@ -133,7 +133,7 @@
       "sample_count": 30,
       "low_fav_count": 17,
       "median_favs": 2691,
-      "avg_favs": 20570,
+      "avg_favs": 20571,
       "top_example": "Silver Star Iconic Sigil Crown",
       "top_example_favs": 87170
     },
@@ -162,14 +162,14 @@
       "median_favs": 4629,
       "avg_favs": 15452,
       "top_example": "[⏳] Black Steel Horns Of Conquest",
-      "top_example_favs": 76769
+      "top_example_favs": 76775
     },
     {
       "keyword": "mask",
       "sample_count": 29,
       "low_fav_count": 10,
       "median_favs": 5400,
-      "avg_favs": 108438,
+      "avg_favs": 108439,
       "top_example": "Black Tactical Neck Gaiter Face Mask",
       "top_example_favs": 5400
     },
@@ -187,25 +187,16 @@
       "sample_count": 30,
       "low_fav_count": 8,
       "median_favs": 7265,
-      "avg_favs": 21255,
+      "avg_favs": 21256,
       "top_example": "Black Goth Captain Hat",
       "top_example_favs": 347152
-    },
-    {
-      "keyword": "chains",
-      "sample_count": 30,
-      "low_fav_count": 8,
-      "median_favs": 10022,
-      "avg_favs": 11124,
-      "top_example": "cross chain",
-      "top_example_favs": 18931
     },
     {
       "keyword": "wings",
       "sample_count": 30,
       "low_fav_count": 8,
       "median_favs": 12161,
-      "avg_favs": 44335,
+      "avg_favs": 44336,
       "top_example": "wings and heart aura (pink)",
       "top_example_favs": 72924
     },
@@ -446,96 +437,49 @@
     "group_id": "35743490",
     "drops": [
       {
-        "name": "Drop #1 — Astral Cyber-Sigil Collection (Winter / Evergreen Y2K)",
-        "status": "Built, Group-Approved & Live in Studio (Ready to Submit)",
-        "set_price_floor": 355,
-        "items": [
-          {
-            "id": "01",
-            "title": "Astral Silver Star Cyber Sigil Crown",
-            "slot": "Hat",
-            "floor": 95,
-            "tris": 2658,
-            "mesh_id": "103838284706892"
-          },
-          {
-            "id": "02",
-            "title": "Astral Star-Sigil Festive Body Lights & Chains",
-            "slot": "Front",
-            "floor": 55,
-            "tris": 3552,
-            "mesh_id": "103827736104678"
-          },
-          {
-            "id": "03",
-            "title": "Astral Silver Y2K Star-Sigil Shield Shades",
-            "slot": "Face",
-            "floor": 95,
-            "tris": 956,
-            "mesh_id": "110121450745659"
-          },
-          {
-            "id": "04",
-            "title": "Astral Silver Cyber-Sigil Shard Wings & Halo Aura",
-            "slot": "Shoulder",
-            "floor": 55,
-            "tris": 1720,
-            "mesh_id": "118477765543098"
-          },
-          {
-            "id": "05",
-            "title": "Astral Silver Spiked Cyber-Sigil Choker & Chains",
-            "slot": "Neck",
-            "floor": 55,
-            "tris": 1412,
-            "mesh_id": "130884903198904"
-          }
-        ]
-      },
-      {
-        "name": "Drop #2 — Iron Sovereign & Cursed Monarch (Dec 18 Film + Anime Battlegrounds)",
+        "name": "Sovereign Suit — Realistic 5-Piece Armored Sovereign Collection",
         "status": "Built, Group-Approved & Live in Studio (Ready to Submit)",
         "set_price_floor": 365,
         "items": [
           {
-            "id": "06",
-            "title": "Emerald Arcane Sovereign Horned Crown Helm",
+            "id": "01",
+            "title": "Emerald Sovereign Draped Hooded Cowl",
             "slot": "Hat",
             "floor": 95,
-            "tris": 480,
-            "mesh_id": "107697578396040"
+            "tris": 992,
+            "mesh_id": "76594885114853"
           },
           {
-            "id": "07",
-            "title": "Emerald Arcane Sovereign Iron Battle Visage",
+            "id": "02",
+            "title": "Emerald Sovereign Forged Steel Mask",
             "slot": "Face",
             "floor": 95,
-            "tris": 208,
-            "mesh_id": "91629556862452"
+            "tris": 1404,
+            "mesh_id": "117291622125615"
           },
           {
-            "id": "08",
-            "title": "Emerald Arcane Monarch Spiked Pauldrons Aura",
+            "id": "03",
+            "title": "Emerald Sovereign Steel Cuirass Tunic",
+            "slot": "Front",
+            "floor": 55,
+            "tris": 1704,
+            "mesh_id": "137075910872849"
+          },
+          {
+            "id": "04",
+            "title": "Emerald Sovereign Cape and Pauldrons",
             "slot": "Shoulder",
             "floor": 55,
-            "tris": 1368,
-            "mesh_id": "93765678870444"
+            "tris": 1092,
+            "mesh_id": "95217035289821"
           },
           {
-            "id": "09",
-            "title": "Emerald Arcane Spiked Sovereign Gorget Collar",
-            "slot": "Neck",
-            "floor": 55,
-            "tris": 576,
-            "mesh_id": "114069993091271"
-          },
-          {
-            "id": "10",
-            "title": "Emerald Arcane Sovereign Rune Waist Blades",
+            "id": "05",
+            "title": "Emerald Sovereign Belt and War Kilt",
             "slot": "Waist",
             "floor": 65,
-            "tris": 2400,
-            "mesh_id": "107619361410208"
+            "tris": 1220,
+            "mesh_id": "121166809125062"
           }
         ]
       }
@@ -1235,7 +1179,7 @@
       "slot": "Face",
       "floor": 95,
       "price": 95,
-      "favs": 1452,
+      "favs": 1453,
       "sources": [
         "KW:mask #4"
       ],
@@ -1296,7 +1240,7 @@
       "slot": "Front",
       "floor": 55,
       "price": 55,
-      "favs": 1613,
+      "favs": 1614,
       "sources": [
         "KW:sigil #4"
       ],
@@ -1651,29 +1595,6 @@
       "url": "https://www.roblox.com/catalog/90126040646539"
     },
     {
-      "id": 70628516537542,
-      "name": "Christmas",
-      "creator": "ketchup rice",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 1190,
-      "sources": [
-        "Day Best #20",
-        "Week Best #17",
-        "KW:christmas #8"
-      ],
-      "keywords": [
-        "christmas"
-      ],
-      "best_rank": 8,
-      "breakout_score": 79.2,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/70628516537542"
-    },
-    {
       "id": 131084572003849,
       "name": "Cyclops 97 Ruby Quartz Visor (2/2)",
       "creator": "LazyMood",
@@ -1714,6 +1635,29 @@
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/104365547905049"
+    },
+    {
+      "id": 70628516537542,
+      "name": "Christmas",
+      "creator": "ketchup rice",
+      "assetType": 43,
+      "slot": "Neck",
+      "floor": 55,
+      "price": 55,
+      "favs": 1197,
+      "sources": [
+        "Day Best #20",
+        "Week Best #17",
+        "KW:christmas #8"
+      ],
+      "keywords": [
+        "christmas"
+      ],
+      "best_rank": 8,
+      "breakout_score": 79.1,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/70628516537542"
     },
     {
       "id": 90962164319350,
@@ -1784,7 +1728,7 @@
       "slot": "Waist",
       "floor": 65,
       "price": 65,
-      "favs": 498,
+      "favs": 502,
       "sources": [
         "KW:goth #11"
       ],
@@ -1826,7 +1770,7 @@
       "slot": "Back",
       "floor": 140,
       "price": 140,
-      "favs": 932,
+      "favs": 939,
       "sources": [
         "KW:wings #10"
       ],
@@ -1941,27 +1885,6 @@
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/76477381934741"
-    },
-    {
-      "id": 75879181437634,
-      "name": "White Designer Chain Shoulder Bag Purse",
-      "creator": "Only Y2K",
-      "assetType": 45,
-      "slot": "Front",
-      "floor": 55,
-      "price": 55,
-      "favs": 1731,
-      "sources": [
-        "KW:chains #8"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 8,
-      "breakout_score": 76.1,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/75879181437634"
     },
     {
       "id": 138542382349571,
@@ -2109,27 +2032,6 @@
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/134354254758692"
-    },
-    {
-      "id": 114674140958339,
-      "name": "Galaxy VIP Cartoony Rainbow Chain",
-      "creator": "SUPER EPIC ITEMS",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 1796,
-      "sources": [
-        "KW:chains #9"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 9,
-      "breakout_score": 73.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/114674140958339"
     },
     {
       "id": 18489467659,
@@ -2457,7 +2359,7 @@
       "slot": "Face",
       "floor": 95,
       "price": 95,
-      "favs": 1228,
+      "favs": 1231,
       "sources": [
         "KW:mask #12"
       ],
@@ -2499,7 +2401,7 @@
       "slot": "Waist",
       "floor": 65,
       "price": 65,
-      "favs": 1924,
+      "favs": 1925,
       "sources": [
         "KW:armor #10"
       ],
@@ -2627,7 +2529,7 @@
       "slot": "Neck",
       "floor": 55,
       "price": 55,
-      "favs": 3,
+      "favs": 4,
       "sources": [
         "KW:blade #16"
       ],
@@ -2858,7 +2760,7 @@
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 2480,
+      "favs": 2483,
       "sources": [
         "Day Best #21",
         "Week Best #21",
@@ -2977,27 +2879,6 @@
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/115863516867995"
-    },
-    {
-      "id": 134509324925691,
-      "name": "autism chain necklace",
-      "creator": "On Clearance",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 3994,
-      "sources": [
-        "KW:chains #5"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 5,
-      "breakout_score": 67.5,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/134509324925691"
     },
     {
       "id": 106526642664773,
@@ -3278,7 +3159,7 @@
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 5025,
+      "favs": 5034,
       "sources": [
         "Day Best #7",
         "Week Best #5",
@@ -3288,7 +3169,7 @@
         "christmas"
       ],
       "best_rank": 2,
-      "breakout_score": 65.2,
+      "breakout_score": 65.1,
       "low_fav_breakout": false,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/123725951778786"
@@ -3336,27 +3217,6 @@
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/113256557818875"
-    },
-    {
-      "id": 130627105544823,
-      "name": "4.0 iced out red slime slums chain w double cubans",
-      "creator": "ChainENT",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 1083,
-      "sources": [
-        "KW:chains #16"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 16,
-      "breakout_score": 64.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/130627105544823"
     },
     {
       "id": 131715655704289,
@@ -3429,7 +3289,7 @@
       "slot": "Hat",
       "floor": 95,
       "price": 90,
-      "favs": 2023,
+      "favs": 2036,
       "sources": [
         "Day Rising #14"
       ],
@@ -3575,7 +3435,7 @@
       "slot": "Neck",
       "floor": 55,
       "price": 55,
-      "favs": 1962,
+      "favs": 1964,
       "sources": [
         "KW:choker #15"
       ],
@@ -3742,7 +3602,7 @@
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 1395,
+      "favs": 1396,
       "sources": [
         "KW:horns #17"
       ],
@@ -3996,7 +3856,7 @@
       "slot": "Hat",
       "floor": 95,
       "price": 95,
-      "favs": 2255,
+      "favs": 2257,
       "sources": [
         "KW:sigil #16"
       ],
@@ -4050,27 +3910,6 @@
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/122776318835788"
-    },
-    {
-      "id": 89754389040466,
-      "name": "GOLD VIP CHAIN NECKLACE",
-      "creator": "On Clearance",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 3064,
-      "sources": [
-        "KW:chains #14"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 14,
-      "breakout_score": 58.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/89754389040466"
     },
     {
       "id": 87473395488157,
@@ -4164,7 +4003,7 @@
       "slot": "Face",
       "floor": 95,
       "price": 95,
-      "favs": 3259,
+      "favs": 3260,
       "sources": [
         "KW:mask #14"
       ],
@@ -4388,27 +4227,6 @@
       "url": "https://www.roblox.com/catalog/107767436416133"
     },
     {
-      "id": 100682618584215,
-      "name": "money sign $ chain necklace",
-      "creator": "On Clearance",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 863,
-      "sources": [
-        "KW:chains #21"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 21,
-      "breakout_score": 56.5,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/100682618584215"
-    },
-    {
       "id": 98220489861265,
       "name": "Emo Goth Skull Distressed Torn Scarf Red",
       "creator": "Only Emo Gothic",
@@ -4416,7 +4234,7 @@
       "slot": "Neck",
       "floor": 55,
       "price": 55,
-      "favs": 2217,
+      "favs": 2218,
       "sources": [
         "KW:goth #18"
       ],
@@ -4646,7 +4464,7 @@
       "assetType": 46,
       "slot": "Back",
       "floor": 140,
-      "price": 5900,
+      "price": 6000,
       "favs": 6322,
       "sources": [
         "KW:blade #3"
@@ -4752,7 +4570,7 @@
       "slot": "Face",
       "floor": 95,
       "price": 95,
-      "favs": 1326,
+      "favs": 1327,
       "sources": [
         "Week Best #82",
         "KW:christmas #21"
@@ -4849,27 +4667,6 @@
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/118197218764409"
-    },
-    {
-      "id": 110900217632789,
-      "name": "💎 Silver Iced Out Chain",
-      "creator": "Motion Catalog",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 65,
-      "favs": 58,
-      "sources": [
-        "KW:chains #24"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 24,
-      "breakout_score": 53.8,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/110900217632789"
     },
     {
       "id": 71473734763099,
@@ -5351,29 +5148,6 @@
       "url": "https://www.roblox.com/catalog/110739045786499"
     },
     {
-      "id": 118999287920689,
-      "name": "Metallic Y2k grunge Aluminum Side Chains",
-      "creator": "Mythical Slayys",
-      "assetType": 47,
-      "slot": "Waist",
-      "floor": 65,
-      "price": 65,
-      "favs": 1368,
-      "sources": [
-        "KW:chains #23",
-        "KW:y2k #28"
-      ],
-      "keywords": [
-        "chains",
-        "y2k"
-      ],
-      "best_rank": 23,
-      "breakout_score": 50.9,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/118999287920689"
-    },
-    {
       "id": 133529609574592,
       "name": "wings",
       "creator": "Dodanuki UGC",
@@ -5499,27 +5273,6 @@
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/107574596420190"
-    },
-    {
-      "id": 114308903410796,
-      "name": "Black Monster Claw Chain Iced Out 1.0",
-      "creator": "Super Based UGC",
-      "assetType": 43,
-      "slot": "Neck",
-      "floor": 55,
-      "price": 55,
-      "favs": 164,
-      "sources": [
-        "KW:chains #26"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 26,
-      "breakout_score": 49.5,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/114308903410796"
     },
     {
       "id": 122093182090165,
@@ -5757,29 +5510,6 @@
       "url": "https://www.roblox.com/catalog/134679885946388"
     },
     {
-      "id": 129442970600130,
-      "name": "Emo Gothic Y2K Glasses Chain Black",
-      "creator": "Only Emo Gothic",
-      "assetType": 42,
-      "slot": "Face",
-      "floor": 95,
-      "price": 95,
-      "favs": 6781,
-      "sources": [
-        "KW:chains #7",
-        "KW:y2k #10"
-      ],
-      "keywords": [
-        "chains",
-        "y2k"
-      ],
-      "best_rank": 7,
-      "breakout_score": 48.2,
-      "low_fav_breakout": false,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/129442970600130"
-    },
-    {
       "id": 135828383529788,
       "name": "gothic black cute ruffled lace choker necklace 3.0",
       "creator": "our demise",
@@ -5904,27 +5634,6 @@
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/130232603796164"
-    },
-    {
-      "id": 79526523831550,
-      "name": "☆ Gold Pretty Sparkle Waist Chain",
-      "creator": "Mind & Beauty",
-      "assetType": 47,
-      "slot": "Waist",
-      "floor": 65,
-      "price": 65,
-      "favs": 4133,
-      "sources": [
-        "KW:chains #18"
-      ],
-      "keywords": [
-        "chains"
-      ],
-      "best_rank": 18,
-      "breakout_score": 47.8,
-      "low_fav_breakout": true,
-      "copyright_clean_title": true,
-      "url": "https://www.roblox.com/catalog/79526523831550"
     },
     {
       "id": 125595815252435,
@@ -6093,6 +5802,237 @@
       "low_fav_breakout": true,
       "copyright_clean_title": true,
       "url": "https://www.roblox.com/catalog/16753736095"
+    },
+    {
+      "id": 105226437753080,
+      "name": "Miku's Pirate Blades",
+      "creator": "Birdy's clothing shop",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 7,
+      "sources": [
+        "KW:blade #28"
+      ],
+      "keywords": [
+        "blade"
+      ],
+      "best_rank": 28,
+      "breakout_score": 46.0,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/105226437753080"
+    },
+    {
+      "id": 119509661296488,
+      "name": "Sigil Noli [Forsaken]",
+      "creator": "gigglicious",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 17,
+      "sources": [
+        "KW:sigil #28"
+      ],
+      "keywords": [
+        "sigil"
+      ],
+      "best_rank": 28,
+      "breakout_score": 45.9,
+      "low_fav_breakout": true,
+      "copyright_clean_title": false,
+      "url": "https://www.roblox.com/catalog/119509661296488"
+    },
+    {
+      "id": 108789623035622,
+      "name": "Meguna Cloak",
+      "creator": "animeslop",
+      "assetType": 45,
+      "slot": "Front",
+      "floor": 55,
+      "price": 55,
+      "favs": 97,
+      "sources": [
+        "KW:cloak #28"
+      ],
+      "keywords": [
+        "cloak"
+      ],
+      "best_rank": 28,
+      "breakout_score": 45.7,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/108789623035622"
+    },
+    {
+      "id": 115876491367781,
+      "name": "[D1-VG-2202] ARES-CORE Main Armor - RED",
+      "creator": "Osu Corp",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 150,
+      "favs": 122,
+      "sources": [
+        "KW:armor #28"
+      ],
+      "keywords": [
+        "armor"
+      ],
+      "best_rank": 28,
+      "breakout_score": 45.6,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/115876491367781"
+    },
+    {
+      "id": 95778132742041,
+      "name": "Wings",
+      "creator": "mudspook",
+      "assetType": 44,
+      "slot": "Shoulder",
+      "floor": 55,
+      "price": 55,
+      "favs": 1355,
+      "sources": [
+        "KW:wings #26"
+      ],
+      "keywords": [
+        "wings"
+      ],
+      "best_rank": 26,
+      "breakout_score": 45.5,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/95778132742041"
+    },
+    {
+      "id": 84429477016572,
+      "name": "Black Sigil Vkei Waist Distressed Wrap Belt",
+      "creator": "aftertone",
+      "assetType": 47,
+      "slot": "Waist",
+      "floor": 65,
+      "price": 65,
+      "favs": 6252,
+      "sources": [
+        "KW:sigil #12"
+      ],
+      "keywords": [
+        "sigil"
+      ],
+      "best_rank": 12,
+      "breakout_score": 45.5,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/84429477016572"
+    },
+    {
+      "id": 84890363630462,
+      "name": "♡ | cute light adorbs white sparkles aura confetti",
+      "creator": "/awofie",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 95,
+      "favs": 813,
+      "sources": [
+        "KW:aura #27"
+      ],
+      "keywords": [
+        "aura"
+      ],
+      "best_rank": 27,
+      "breakout_score": 45.4,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/84890363630462"
+    },
+    {
+      "id": 138819170432410,
+      "name": "Thragg Battle Beast Cloak",
+      "creator": "Apple Dungeon",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 115,
+      "favs": 5800,
+      "sources": [
+        "KW:cloak #14"
+      ],
+      "keywords": [
+        "cloak"
+      ],
+      "best_rank": 14,
+      "breakout_score": 45.4,
+      "low_fav_breakout": false,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/138819170432410"
+    },
+    {
+      "id": 87141953050611,
+      "name": "୨ ♡ ୧ cutie black belt choker",
+      "creator": "abusable",
+      "assetType": 43,
+      "slot": "Neck",
+      "floor": 55,
+      "price": 55,
+      "favs": 858,
+      "sources": [
+        "KW:choker #27"
+      ],
+      "keywords": [
+        "choker"
+      ],
+      "best_rank": 27,
+      "breakout_score": 45.3,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/87141953050611"
+    },
+    {
+      "id": 109202396009961,
+      "name": "Monarch Butterfly Torn Wings",
+      "creator": "Szeloba",
+      "assetType": 46,
+      "slot": "Back",
+      "floor": 140,
+      "price": 140,
+      "favs": 285,
+      "sources": [
+        "KW:monarch #28"
+      ],
+      "keywords": [
+        "monarch"
+      ],
+      "best_rank": 28,
+      "breakout_score": 45.1,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/109202396009961"
+    },
+    {
+      "id": 86489337406393,
+      "name": "German Military Visor Cap Devil's Field-Grey",
+      "creator": "ATP JazzzC",
+      "assetType": 8,
+      "slot": "Hat",
+      "floor": 95,
+      "price": 115,
+      "favs": 301,
+      "sources": [
+        "KW:visor #28"
+      ],
+      "keywords": [
+        "visor"
+      ],
+      "best_rank": 28,
+      "breakout_score": 45.1,
+      "low_fav_breakout": true,
+      "copyright_clean_title": true,
+      "url": "https://www.roblox.com/catalog/86489337406393"
     }
   ]
 }
