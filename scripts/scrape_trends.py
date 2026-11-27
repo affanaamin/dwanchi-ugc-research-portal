@@ -346,15 +346,15 @@ def main() -> None:
         "group_id": "35743490",
         "drops": [
             {
-                "name": "Emerald Sovereign — Single Edition Realistic A-Frame Armor Suit",
+                "name": "Emerald Sovereign — Competition-Grade 1:1 Project-From-View Armor Suit",
                 "status": "Built, Group-Approved & Live in Studio (Ready to Submit)",
                 "set_price_floor": 365,
                 "items": [
-                    {"id": "01", "title": "Emerald Sovereign Draped Hooded Cowl",  "slot": "Hat",      "floor": 95, "tris": 2328, "mesh_id": "140244118839781"},
-                    {"id": "02", "title": "Emerald Sovereign Forged Steel Mask",   "slot": "Face",     "floor": 95, "tris": 2932, "mesh_id": "90102382773432"},
-                    {"id": "03", "title": "Emerald Sovereign Steel Cuirass Tunic", "slot": "Front",    "floor": 55, "tris": 2756, "mesh_id": "79615565020796"},
-                    {"id": "04", "title": "Emerald Sovereign Cape and Pauldrons",  "slot": "Shoulder", "floor": 55, "tris": 2848, "mesh_id": "104268830674378"},
-                    {"id": "05", "title": "Emerald Sovereign Belt and War Kilt",   "slot": "Waist",    "floor": 65, "tris": 2696, "mesh_id": "88340914829432"},
+                    {"id": "01", "title": "Emerald Sovereign Draped Hooded Cowl",    "slot": "Hat",      "floor": 95, "tris": 2328, "mesh_id": "79416355119309"},
+                    {"id": "02", "title": "Emerald Sovereign Forged Steel Mask",     "slot": "Face",     "floor": 95, "tris": 2888, "mesh_id": "106587029549358"},
+                    {"id": "03", "title": "Emerald Sovereign Quilted Vest Tunic",    "slot": "Front",    "floor": 55, "tris": 2728, "mesh_id": "126608360250077"},
+                    {"id": "04", "title": "Emerald Sovereign Gauntlets and Cape",    "slot": "Shoulder", "floor": 55, "tris": 3424, "mesh_id": "73413190155440"},
+                    {"id": "05", "title": "Emerald Sovereign Belt and Shin Greaves", "slot": "Waist",    "floor": 65, "tris": 2368, "mesh_id": "84096149924566"},
                 ],
             },
         ],
