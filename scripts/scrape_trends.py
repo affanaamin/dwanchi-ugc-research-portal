@@ -346,15 +346,15 @@ def main() -> None:
         "group_id": "35743490",
         "drops": [
             {
-                "name": "Sovereign Suit — Realistic 5-Piece Armored Sovereign Collection",
+                "name": "Sovereign Suit — High-Detail 5-Piece Armored Sovereign Collection",
                 "status": "Built, Group-Approved & Live in Studio (Ready to Submit)",
                 "set_price_floor": 365,
                 "items": [
-                    {"id": "01", "title": "Emerald Sovereign Draped Hooded Cowl",  "slot": "Hat",      "floor": 95, "tris": 992,  "mesh_id": "76594885114853"},
-                    {"id": "02", "title": "Emerald Sovereign Forged Steel Mask",   "slot": "Face",     "floor": 95, "tris": 1404, "mesh_id": "117291622125615"},
-                    {"id": "03", "title": "Emerald Sovereign Steel Cuirass Tunic", "slot": "Front",    "floor": 55, "tris": 1704, "mesh_id": "137075910872849"},
-                    {"id": "04", "title": "Emerald Sovereign Cape and Pauldrons",  "slot": "Shoulder", "floor": 55, "tris": 1092, "mesh_id": "95217035289821"},
-                    {"id": "05", "title": "Emerald Sovereign Belt and War Kilt",   "slot": "Waist",    "floor": 65, "tris": 1220, "mesh_id": "121166809125062"},
+                    {"id": "01", "title": "Emerald Sovereign Draped Hooded Cowl",  "slot": "Hat",      "floor": 95, "tris": 2416, "mesh_id": "131781595592564"},
+                    {"id": "02", "title": "Emerald Sovereign Forged Steel Mask",   "slot": "Face",     "floor": 95, "tris": 2948, "mesh_id": "113518733575592"},
+                    {"id": "03", "title": "Emerald Sovereign Steel Cuirass Tunic", "slot": "Front",    "floor": 55, "tris": 3928, "mesh_id": "114561623073510"},
+                    {"id": "04", "title": "Emerald Sovereign Cape and Pauldrons",  "slot": "Shoulder", "floor": 55, "tris": 3476, "mesh_id": "108478606535256"},
+                    {"id": "05", "title": "Emerald Sovereign Belt and War Kilt",   "slot": "Waist",    "floor": 65, "tris": 2756, "mesh_id": "111053966439922"},
                 ],
             },
         ],
